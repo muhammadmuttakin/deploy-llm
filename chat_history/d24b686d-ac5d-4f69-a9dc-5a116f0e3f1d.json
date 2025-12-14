@@ -1,0 +1,13 @@
+{
+  "session_id": "d24b686d-ac5d-4f69-a9dc-5a116f0e3f1d",
+  "created_at": "2025-12-03T13:02:21.225406",
+  "messages": [
+    {
+      "timestamp": "2025-12-03T13:02:21.225406",
+      "query": "apa itu javascript",
+      "answer": "Dari materi yang tersedia, JavaScript adalah bahasa pemrograman yang wajib dikuasai oleh seorang web developer. Awalnya, JavaScript digunakan untuk membuat *website* menjadi lebih interaktif.\n\nNamun, dalam perkembangannya, JavaScript tidak lagi hanya terbatas pada *browser*, melainkan juga bisa berjalan di *server*. Ini artinya, JavaScript kini digunakan di seluruh bagian *website*, dari *front-end* hingga *back-end*, bahkan sudah merambah ke platform lain seperti *mobile*, *desktop*, dan *game*.\n\nSingkatnya, JavaScript bisa berjalan di berbagai lingkungan seperti *browser*, *server*, dan *desktop*. Bahasa ini juga dikenal mudah dipelajari oleh pemula dan termasuk salah satu bahasa pemrograman paling populer serta banyak dicari oleh industri.\n\nApakah kamu tertarik untuk mempelajari JavaScript lebih lanjut?",
+      "type": "learning"
+    }
+  ],
+  "last_updated": "2025-12-03T13:02:21.225406"
+}

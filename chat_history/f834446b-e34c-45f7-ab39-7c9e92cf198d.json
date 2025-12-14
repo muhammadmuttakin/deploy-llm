@@ -1,0 +1,19 @@
+{
+  "session_id": "f834446b-e34c-45f7-ab39-7c9e92cf198d",
+  "created_at": "2025-12-09T18:10:14.869624",
+  "messages": [
+    {
+      "timestamp": "2025-12-09T18:10:14.869624",
+      "query": "halo",
+      "answer": "Hai! Ada yang bisa Dico bantu hari ini? 😊",
+      "type": "learning"
+    },
+    {
+      "timestamp": "2025-12-09T18:10:40.727473",
+      "query": "bagaimana progress belajar saya",
+      "answer": "Budi, dengarkan. Kamu sudah menyelesaikan 3 dari 6 kursus di jalur AI Engineer. Itu 50% dari total.\n\nNamun, progress 'Machine Learning Terapan' masih 30%. Ini terlalu rendah dan deadline 23 hari lagi. Fokus dan segera tingkatkan.\nUntuk 'Belajar Fundamental Deep Learning', walaupun sudah 60%, kursus ini sudah terlambat 29 hari. Segera selesaikan.\nAda 1 kursus lagi yang belum kamu mulai, dan bahkan ada yang sudah melewati deadline.\n\nKalau mau jadi AI Engineer, kamu harus lebih serius dan konsisten. Segera ambil tindakan.",
+      "type": "tracking"
+    }
+  ],
+  "last_updated": "2025-12-09T18:10:40.727473"
+}

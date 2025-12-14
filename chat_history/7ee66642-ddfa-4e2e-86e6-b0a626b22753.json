@@ -1,0 +1,13 @@
+{
+  "session_id": "7ee66642-ddfa-4e2e-86e6-b0a626b22753",
+  "created_at": "2025-12-14T09:14:11.155704",
+  "messages": [
+    {
+      "timestamp": "2025-12-14T09:14:11.155704",
+      "query": "rekomendasi kelas android developer",
+      "answer": "Halo! Senang sekali kamu tertarik untuk mendalami dunia Android Developer! 🚀 Ini adalah pilihan yang menarik untuk membangun aplikasi mobile yang fungsional dan berguna.\n\nUntuk memulai perjalananmu sebagai Android Developer, saya sangat merekomendasikan **Memulai Pemrograman dengan Kotlin**. Kursus ini akan membekalimu dengan dasar-dasar pemrograman Kotlin yang menjadi bahasa utama dalam pengembangan Android modern. Setelah menguasai dasarnya, kamu bisa melanjutkan ke **Belajar Membuat Aplikasi Android untuk Pemula**. Di sini, kamu akan mulai membangun aplikasi Android pertamamu dan memahami konsep dasar pengembangan aplikasi secara langsung.\n\nDengan menyelesaikan **Memulai Pemrograman dengan Kotlin** (Level Dasar) sebagai fondasi, kamu akan lebih siap untuk melangkah ke **Belajar Membuat Aplikasi Android untuk Pemula** (Level Pemula). Setelah itu, kamu bisa memperdalam pengetahuanmu dengan **Belajar Fundamental Aplikasi Android** (Level Menengah) untuk membangun skill yang lebih komprehensif.\n\nBagaimana, siap untuk memulai petualanganmu di dunia Android? ✨",
+      "type": "recommendation"
+    }
+  ],
+  "last_updated": "2025-12-14T09:14:11.155704"
+}

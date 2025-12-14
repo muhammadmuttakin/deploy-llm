@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "course_level": "Dasar"
+    },
+    {
+        "id": 2,
+        "course_level": "Pemula"
+    },
+    {
+        "id": 3,
+        "course_level": "Menengah"
+    },
+    {
+        "id": 4,
+        "course_level": "Mahir"
+    },
+    {
+        "id": 5,
+        "course_level": "Profesional"
+    }
+]

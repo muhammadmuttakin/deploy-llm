@@ -1,0 +1,19 @@
+{
+  "session_id": "c1c78cc7-3c14-4bfa-975e-0d2f07eb7eff",
+  "created_at": "2025-12-13T22:56:40.027176",
+  "messages": [
+    {
+      "timestamp": "2025-12-13T22:56:40.027176",
+      "query": "halo",
+      "answer": "Halo! Ada yang bisa Dico bantu hari ini? 😊",
+      "type": "learning"
+    },
+    {
+      "timestamp": "2025-12-13T23:02:48.643625",
+      "query": "test",
+      "answer": "Oke, Dico siap. Ada yang ingin kamu tanyakan atau ada yang bisa Dico bantu lebih lanjut?",
+      "type": "learning"
+    }
+  ],
+  "last_updated": "2025-12-13T23:02:48.643625"
+}

@@ -1,0 +1,13 @@
+{
+  "session_id": "4cb3f0ab-857e-4ff2-9366-e33f1a81c82b",
+  "created_at": "2025-12-03T15:07:56.151443",
+  "messages": [
+    {
+      "timestamp": "2025-12-03T15:07:56.151443",
+      "query": "bisa kasih kelas pada machine learning apa saja",
+      "answer": "Wah, Budi, kamu hebat sekali! 🎉 Sepertinya kamu sudah menyelesaikan atau sedang mengambil semua *course* yang tersedia di *learning path* Machine Learning Engineer kamu saat ini. Keren banget progresnya!\n\nMau eksplorasi *learning path* lain yang menarik, atau mungkin ada *skill* spesifik yang ingin kamu dalami lagi?",
+      "type": "recommendation"
+    }
+  ],
+  "last_updated": "2025-12-03T15:07:56.151443"
+}

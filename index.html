@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learning Assistant Chat</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            padding: 20px;
+        }
+
+        .chat-container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        #messages {
+            background: #fafafa;
+            border: 1px solid #ddd;
+            padding: 15px;
+            min-height: 250px;
+            max-height: 350px;
+            overflow-y: auto;
+            border-radius: 8px;
+            margin-bottom: 15px;
+        }
+
+        .msg-user {
+            background: #d1e7ff;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 8px;
+            text-align: right;
+        }
+
+        .msg-bot {
+            background: #e8ffe3;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 8px;
+        }
+
+        textarea {
+            width: 100%;
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            resize: none;
+            height: 80px;
+            margin-bottom: 10px;
+        }
+
+        .btn {
+            width: 49%;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            color: white;
+            font-size: 14px;
+        }
+
+        .btn-send {
+            background: #4a6cf7;
+        }
+
+        .btn-clear {
+            background: #d9534f;
+        }
+    </style>
+</head>
+<body>
+
+<div class="chat-container">
+    <h2>💬 Learning Assistant Chat</h2>
+
+    <!-- Chat Messages -->
+    <div id="messages"></div>
+
+    <!-- User Input -->
+    <textarea id="chatInput" placeholder="Ketik pertanyaan..."></textarea>
+
+    <!-- Buttons -->
+    <button class="btn btn-send" onclick="sendMessage()">Send Query</button>
+    <button class="btn btn-clear" onclick="clearChat()">Clear</button>
+</div>
+
+<script>
+    const API_URL = "http://127.0.0.1:8000/chat";
+
+    let sessionId = "";
+
+    function addMessage(text, sender) {
+        const messages = document.getElementById("messages");
+        const div = document.createElement("div");
+        div.className = sender === "user" ? "msg-user" : "msg-bot";
+        div.textContent = text;
+        messages.appendChild(div);
+        messages.scrollTop = messages.scrollHeight;
+    }
+
+    async function sendMessage() {
+        const input = document.getElementById("chatInput");
+        const query = input.value.trim();
+
+        if (!query) return;
+
+        addMessage(query, "user");
+        input.value = "";
+
+        try {
+            const response = await fetch(API_URL, {
+                method: "POST",
+                headers: { 
+                    "Content-Type": "application/json" 
+                },
+                body: JSON.stringify({
+                    query: query,
+                    session_id: sessionId
+                })
+            });
+
+            const data = await response.json();
+            addMessage(data.answer, "bot");
+            if (!sessionId && data.session_id) {
+                sessionId = data.session_id;
+            }
+
+        } catch (error) {
+            addMessage("Terjadi error: " + error.message, "bot");
+        }
+    }
+
+    function clearChat() {
+        document.getElementById("messages").innerHTML = "";
+        sessionId = "";
+    }
+</script>
+
+</body>
+</html>

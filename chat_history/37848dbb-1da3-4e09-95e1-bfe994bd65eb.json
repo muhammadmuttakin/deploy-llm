@@ -1,0 +1,13 @@
+{
+  "session_id": "37848dbb-1da3-4e09-95e1-bfe994bd65eb",
+  "created_at": "2025-12-03T15:32:39.075187",
+  "messages": [
+    {
+      "timestamp": "2025-12-03T15:32:39.076269",
+      "query": "apakah kamu tau course level",
+      "answer": "Dari materi yang tersedia, saya bisa menemukan beberapa informasi mengenai level atau tingkat kesulitan kelas:\n\n*   **Belajar Pengembangan Aplikasi Flutter Intermediate**: Memiliki level **Mahir**. Kelas ini didesain untuk developer yang sudah familier dengan fundamental Flutter.\n*   **Belajar Membangun LINE Front-end Framework (LIFF)**: Memiliki level **Pemula**.\n*   **Memulai Pemrograman dengan Kotlin**: Memiliki level **Dasar, Pemula**.\n\nApakah kamu ingin tahu lebih lanjut tentang salah satu kelas ini? 😊",
+      "type": "learning"
+    }
+  ],
+  "last_updated": "2025-12-03T15:32:39.076269"
+}

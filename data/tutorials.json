@@ -1,0 +1,7002 @@
+[
+    {
+        "tutorial_id": 1,
+        "course_id": 1,
+        "tutorial_title": "Taksonomi AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 2,
+        "course_id": 1,
+        "tutorial_title": "[Story] Machine Learning: Harapan menjadi kenyataan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 3,
+        "course_id": 1,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 4,
+        "course_id": 1,
+        "tutorial_title": "Tipe-Tipe Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 5,
+        "course_id": 1,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 6,
+        "course_id": 1,
+        "tutorial_title": "Kriteria Data untuk AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 7,
+        "course_id": 1,
+        "tutorial_title": "Latihan Membuat Model Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 8,
+        "course_id": 1,
+        "tutorial_title": "AI Workflow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 9,
+        "course_id": 1,
+        "tutorial_title": "Rangkuman Pengantar Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 10,
+        "course_id": 1,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 11,
+        "course_id": 1,
+        "tutorial_title": "Machine Learning Workflow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 12,
+        "course_id": 1,
+        "tutorial_title": "Glosarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 13,
+        "course_id": 1,
+        "tutorial_title": "[Story] Apa yang Diperlukan untuk Membuat AI?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 14,
+        "course_id": 1,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 15,
+        "course_id": 1,
+        "tutorial_title": "Proses di Balik Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 16,
+        "course_id": 1,
+        "tutorial_title": "[Story] Belajar Mempermudah Pekerjaan dengan AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 17,
+        "course_id": 1,
+        "tutorial_title": "Kuis Pengantar Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 18,
+        "course_id": 1,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 19,
+        "course_id": 1,
+        "tutorial_title": "Infrastruktur Data di Industri",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 20,
+        "course_id": 1,
+        "tutorial_title": "Model Maintenance",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 21,
+        "course_id": 1,
+        "tutorial_title": "Rangkuman Data untuk AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 22,
+        "course_id": 1,
+        "tutorial_title": "Prasyarat Kemampuan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 23,
+        "course_id": 1,
+        "tutorial_title": "[Story] Hidup Semakin Mudah dengan Bantuan Mesin",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 24,
+        "course_id": 1,
+        "tutorial_title": "Rangkuman Berkenalan dengan Artificial Intelligence (AI)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 25,
+        "course_id": 1,
+        "tutorial_title": "Pengenalan Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 26,
+        "course_id": 1,
+        "tutorial_title": "Penerapan AI dalam Dunia Nyata",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 27,
+        "course_id": 1,
+        "tutorial_title": "Machine Learning di Industri",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 28,
+        "course_id": 1,
+        "tutorial_title": "Rangkuman Deep Learning untuk Semua Orang",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 29,
+        "course_id": 1,
+        "tutorial_title": "Kuis Data untuk AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 30,
+        "course_id": 1,
+        "tutorial_title": "Prasyarat Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 31,
+        "course_id": 1,
+        "tutorial_title": "Kuis Berkenalan dengan Artificial Intelligence (AI)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 32,
+        "course_id": 1,
+        "tutorial_title": "Mengenal Artificial Neural Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 33,
+        "course_id": 1,
+        "tutorial_title": "Pengenalan AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 34,
+        "course_id": 1,
+        "tutorial_title": "Batasan Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 35,
+        "course_id": 1,
+        "tutorial_title": "Kuis Deep Learning untuk Semua Orang",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 36,
+        "course_id": 1,
+        "tutorial_title": "Pengenalan Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 37,
+        "course_id": 1,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 38,
+        "course_id": 1,
+        "tutorial_title": "Pengenalan Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 39,
+        "course_id": 1,
+        "tutorial_title": "Gambaran Penerapan Deep Learning di Industri",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 40,
+        "course_id": 2,
+        "tutorial_title": "Glossarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 41,
+        "course_id": 2,
+        "tutorial_title": "Pra-pemrosesan Data Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 42,
+        "course_id": 2,
+        "tutorial_title": "Pengantar Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 43,
+        "course_id": 2,
+        "tutorial_title": "Proyek Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 44,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan TensorFlow.js",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 45,
+        "course_id": 2,
+        "tutorial_title": "Ekstraksi Fitur",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 46,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Reinforcement Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 47,
+        "course_id": 2,
+        "tutorial_title": "Pengumpulan Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 48,
+        "course_id": 2,
+        "tutorial_title": "Kuis Berkenalan dengan Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 49,
+        "course_id": 2,
+        "tutorial_title": "Plot Loss dan Akurasi dari Trained Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 50,
+        "course_id": 2,
+        "tutorial_title": "Image Generation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 51,
+        "course_id": 2,
+        "tutorial_title": "Komponen-komponen Utama RL",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 52,
+        "course_id": 2,
+        "tutorial_title": "Penggunaan Batch Loading",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 53,
+        "course_id": 2,
+        "tutorial_title": "Policies and Value Functions",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 54,
+        "course_id": 2,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 55,
+        "course_id": 2,
+        "tutorial_title": "[Story] Dari Daun Tomat ke Teknologi, Kok Bisa?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 56,
+        "course_id": 2,
+        "tutorial_title": "Memonitor Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 57,
+        "course_id": 2,
+        "tutorial_title": "Pra-pemrosesan Data untuk Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 58,
+        "course_id": 2,
+        "tutorial_title": "Kuis Konversi Model Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 59,
+        "course_id": 2,
+        "tutorial_title": "Latihan Membangun Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 60,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Convolutional Neural Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 61,
+        "course_id": 2,
+        "tutorial_title": "Beberapa Model untuk Transfer Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 62,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 63,
+        "course_id": 2,
+        "tutorial_title": "Federated Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 64,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Natural Language Processing (NLP) dengan Tensorflow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 65,
+        "course_id": 2,
+        "tutorial_title": "Proyek Pertama : Membuat Model NLP dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 66,
+        "course_id": 2,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 67,
+        "course_id": 2,
+        "tutorial_title": "Pembuatan Model Klasifikasi Gambar dengan CNN",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 68,
+        "course_id": 2,
+        "tutorial_title": "[Story] Komputer Memahami Bahasa Manusia, Kok Bisa?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 69,
+        "course_id": 2,
+        "tutorial_title": "Proyek Analisis Sentimen",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 70,
+        "course_id": 2,
+        "tutorial_title": "Latihan: Deploy Model ML Menggunakan TensorFlow.js",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 71,
+        "course_id": 2,
+        "tutorial_title": "Latihan Ekstraksi Fitur pada Teks",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 72,
+        "course_id": 2,
+        "tutorial_title": "Dasar-Dasar Neural Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 73,
+        "course_id": 2,
+        "tutorial_title": "Kuis Reinforcement Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 74,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 75,
+        "course_id": 2,
+        "tutorial_title": "Mencegah Overfitting dengan Dropout dan Batch Normalization",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 76,
+        "course_id": 2,
+        "tutorial_title": "Text Generation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 77,
+        "course_id": 2,
+        "tutorial_title": "[Story] Bukan Sembarang Kue Lapis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 78,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Membuat dan Melatih Neural Network dengan TensorFlow dan Keras",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 79,
+        "course_id": 2,
+        "tutorial_title": "Exploration vs Exploitation pada Markov Decision Processes (MDPs)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 80,
+        "course_id": 2,
+        "tutorial_title": "Pendahuluan Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 81,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 82,
+        "course_id": 2,
+        "tutorial_title": "Memperbarui Model yang Telah Di-deploy",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 83,
+        "course_id": 2,
+        "tutorial_title": "Menggunakan Model untuk Melakukan Prediksi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 84,
+        "course_id": 2,
+        "tutorial_title": "[Story] Akhir yang Menjadi Awal dari Perjalanan Panjang",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 85,
+        "course_id": 2,
+        "tutorial_title": "Proyek Kedua : Membuat Model Machine Learning dengan Data Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 86,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Recurrent Neural Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 87,
+        "course_id": 2,
+        "tutorial_title": "Latihan Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 88,
+        "course_id": 2,
+        "tutorial_title": "Machine Learning pada Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 89,
+        "course_id": 2,
+        "tutorial_title": "Data Pipelines dengan TensorFlow Data Services",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 90,
+        "course_id": 2,
+        "tutorial_title": "Kuis Natural Language Processing (NLP) dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 91,
+        "course_id": 2,
+        "tutorial_title": "Pendahuluan Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 92,
+        "course_id": 2,
+        "tutorial_title": "Format Penyimpanan Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 93,
+        "course_id": 2,
+        "tutorial_title": "Compile dan Fit Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 94,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Natural Language Processing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 95,
+        "course_id": 2,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 96,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan TensorFlow Lite",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 97,
+        "course_id": 2,
+        "tutorial_title": "Binary vs Multiclass vs Multilabel Classification pada Text",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 98,
+        "course_id": 2,
+        "tutorial_title": "[Story] Awal Bertemu dengan Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 99,
+        "course_id": 2,
+        "tutorial_title": "[Story] Optimalkan Aksesibilitas, Emangnya Bisa?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 100,
+        "course_id": 2,
+        "tutorial_title": "Proyek Akhir : Image Classification Model Deployment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 101,
+        "course_id": 2,
+        "tutorial_title": "Kuis Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 607,
+        "course_id": 7,
+        "tutorial_title": "Latihan Bound Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 102,
+        "course_id": 2,
+        "tutorial_title": "Optimasi Pelatihan Menggunakan Callbacks",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 103,
+        "course_id": 2,
+        "tutorial_title": "Multimodal Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 104,
+        "course_id": 2,
+        "tutorial_title": "Metode Markov Decision Process",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 105,
+        "course_id": 2,
+        "tutorial_title": "Kuis Membuat dan Melatih Neural Network dengan TensorFlow dan Keras",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 106,
+        "course_id": 2,
+        "tutorial_title": "Contoh Sederhana Markov Decision Process",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 107,
+        "course_id": 2,
+        "tutorial_title": "Pendahuluan Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 108,
+        "course_id": 2,
+        "tutorial_title": "Dasar-Dasar Convolutional Neural Networks (CNNs)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 109,
+        "course_id": 2,
+        "tutorial_title": "Model Sekuensial dengan Beberapa Layer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 110,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Generative AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 111,
+        "course_id": 2,
+        "tutorial_title": "Pendahuluan Reinforcement Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 112,
+        "course_id": 2,
+        "tutorial_title": "[Story] Ooh Ini Toh yang Namanya Deep Learning!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 113,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 114,
+        "course_id": 2,
+        "tutorial_title": "Tipe-Tipe Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 115,
+        "course_id": 2,
+        "tutorial_title": "Export Data ke Training Pipelines",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 116,
+        "course_id": 2,
+        "tutorial_title": "Metrik Evaluasi untuk Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 117,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 118,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Arsitektur Deep Learning yang Populer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 119,
+        "course_id": 2,
+        "tutorial_title": "Evaluasi Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 120,
+        "course_id": 2,
+        "tutorial_title": "[Story] Siap-Siap!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 121,
+        "course_id": 2,
+        "tutorial_title": "Latihan: Deploy Model ML Menggunakan TensorFlow Lite",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 122,
+        "course_id": 2,
+        "tutorial_title": "[Story] Hai, Perkenalkan Ini RNN!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 123,
+        "course_id": 2,
+        "tutorial_title": "[Story] Tak Kenal Maka Kenalan!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 124,
+        "course_id": 2,
+        "tutorial_title": "[Story] TensorFlow, Si Penyelamat ML Engineer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 125,
+        "course_id": 2,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 126,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 127,
+        "course_id": 2,
+        "tutorial_title": "Menggunakan Dataset dari TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 128,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman The Game Changer: Generative AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 129,
+        "course_id": 2,
+        "tutorial_title": "Pendahuluan Konversi Model Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 130,
+        "course_id": 2,
+        "tutorial_title": "Latihan Pra-pemrosesan Teks",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 131,
+        "course_id": 2,
+        "tutorial_title": "Latihan Implementasi Reinforcement Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 132,
+        "course_id": 2,
+        "tutorial_title": "[Story] Hi, Neural Network!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 133,
+        "course_id": 2,
+        "tutorial_title": "[Story] Nice to Meet You, Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 134,
+        "course_id": 2,
+        "tutorial_title": "Latihan: Time Series 101",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 135,
+        "course_id": 2,
+        "tutorial_title": "Membuat Model untuk Klasifikasi Dua Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 136,
+        "course_id": 2,
+        "tutorial_title": "Discriminative AI vs Generative AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 137,
+        "course_id": 2,
+        "tutorial_title": "[Story] Time to Play!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 138,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Pengenalan Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 139,
+        "course_id": 2,
+        "tutorial_title": "Kuis Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 140,
+        "course_id": 2,
+        "tutorial_title": "Data Preprocessing untuk Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 141,
+        "course_id": 2,
+        "tutorial_title": "Mempublikasi Model Anda ke TF-Hub",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 142,
+        "course_id": 2,
+        "tutorial_title": "Collaborative Filtering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 143,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan TensorFlow Serving",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 144,
+        "course_id": 2,
+        "tutorial_title": "Penanganan Overfitting dalam Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 145,
+        "course_id": 2,
+        "tutorial_title": "Text Preprocessing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 146,
+        "course_id": 2,
+        "tutorial_title": "Arsitektur Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 147,
+        "course_id": 2,
+        "tutorial_title": "Algoritma RNN (Recurrent Neural Network)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 148,
+        "course_id": 2,
+        "tutorial_title": "[Story] Semakin Tahu Semakin Penasaran",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 149,
+        "course_id": 2,
+        "tutorial_title": "[Story] Akhirnya Bisa Publish!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 150,
+        "course_id": 2,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 151,
+        "course_id": 2,
+        "tutorial_title": "Pemisahan Data (Data Splitting)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 152,
+        "course_id": 2,
+        "tutorial_title": "Pendahuluan Natural Language Processing (NLP) dengan Tensorflow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 153,
+        "course_id": 2,
+        "tutorial_title": "Kuis The Game Changer: Generative AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 154,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Deployment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 155,
+        "course_id": 2,
+        "tutorial_title": "[Story] Ekstraksi Fitur!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 156,
+        "course_id": 2,
+        "tutorial_title": "[Story] Datezone = Reinforcement Learning?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 157,
+        "course_id": 2,
+        "tutorial_title": "Tahapan Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 158,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Berkenalan dengan Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 159,
+        "course_id": 2,
+        "tutorial_title": "Membuat dan Melatih Model untuk Klasifikasi Banyak Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 160,
+        "course_id": 2,
+        "tutorial_title": "Penerapan Generative AI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 161,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Reinforcement Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 162,
+        "course_id": 2,
+        "tutorial_title": "Kuis Pengenalan Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 163,
+        "course_id": 2,
+        "tutorial_title": "Q-Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 164,
+        "course_id": 2,
+        "tutorial_title": "Pendahuluan Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 165,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan TensorBoard",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 166,
+        "course_id": 2,
+        "tutorial_title": "Rangkuman Konversi Model Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 167,
+        "course_id": 2,
+        "tutorial_title": "Content Based Filtering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 168,
+        "course_id": 2,
+        "tutorial_title": "Latihan: Deploy Model ML Menggunakan TensorFlow Serving",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 169,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan Transfer Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 170,
+        "course_id": 2,
+        "tutorial_title": "[Story] Meramal Masa Depan, Bagaimana Caranya?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 171,
+        "course_id": 2,
+        "tutorial_title": "[Story] Menghemat Waktu dengan Rekomendasi Akurat",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 172,
+        "course_id": 2,
+        "tutorial_title": "Studi Kasus Implementasi Klasifikasi Teks pada NLP: Sentimen Analisis Review APK Play Store",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 173,
+        "course_id": 2,
+        "tutorial_title": "Pengenalan TensorFlow dan Keras untuk Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 174,
+        "course_id": 3,
+        "tutorial_title": "Kuis Hi, Machine Learning!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 175,
+        "course_id": 3,
+        "tutorial_title": "Latihan Studi Kasus Regresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 176,
+        "course_id": 3,
+        "tutorial_title": "Decision Tree",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 177,
+        "course_id": 3,
+        "tutorial_title": "[Story] Tugas Akhir Kuliah",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 178,
+        "course_id": 3,
+        "tutorial_title": "Pengenalan Tools dan Library Populer pada Python untuk Machine Learning dan Data Science",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 179,
+        "course_id": 3,
+        "tutorial_title": "[Story] Beda Algoritma Beda Juga Cara Kerjanya? Kok Bisa?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 180,
+        "course_id": 3,
+        "tutorial_title": "Pengantar Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 181,
+        "course_id": 3,
+        "tutorial_title": "Penanganan Outlier",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 182,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Overfitting dan Underfitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 183,
+        "course_id": 3,
+        "tutorial_title": "Latihan: Data Splitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 184,
+        "course_id": 3,
+        "tutorial_title": "Latihan: Studi Kasus Overfitting dan Underfitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 185,
+        "course_id": 3,
+        "tutorial_title": "Deployment dan Feedback",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 186,
+        "course_id": 3,
+        "tutorial_title": "Kuis Machine Learning Workflow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 187,
+        "course_id": 3,
+        "tutorial_title": "Kuis Unsupervised Learning - Clustering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 188,
+        "course_id": 3,
+        "tutorial_title": "Latihan Studi Kasus: Klasifikasi Pelanggan untuk Churn pada Perusahaan XYZ",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 189,
+        "course_id": 3,
+        "tutorial_title": "[Story] Karakter Utama di Balik Layar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 190,
+        "course_id": 3,
+        "tutorial_title": "Contoh Algoritma Regresi - Polynomial Regression",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 191,
+        "course_id": 3,
+        "tutorial_title": "Multi Layer Perceptron",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 192,
+        "course_id": 3,
+        "tutorial_title": "Latihan: Exploratory dan Explanatory Data Analysis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 193,
+        "course_id": 3,
+        "tutorial_title": "DBSCAN (Density-Based Spatial Clustering of Applications with Noise)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 194,
+        "course_id": 3,
+        "tutorial_title": "Recommendation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 195,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Optimasi Model dengan Hyperparameter Tuning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 196,
+        "course_id": 3,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 197,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Supervised Learning - Klasifikasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 198,
+        "course_id": 3,
+        "tutorial_title": "Encoding Variabel ke Numerik",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 199,
+        "course_id": 3,
+        "tutorial_title": "[Story] Salah Prediksi Terus, Kenapa ya?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 200,
+        "course_id": 3,
+        "tutorial_title": "Pengantar Machine Learning Workflow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 201,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Supervised Learning - Regresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 202,
+        "course_id": 3,
+        "tutorial_title": "Contoh Algoritma Regresi - Linear Regression",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 203,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Hyperparameter Tuning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 204,
+        "course_id": 3,
+        "tutorial_title": "Latihan Membuat Model di Watson Studio",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 205,
+        "course_id": 3,
+        "tutorial_title": "K-Nearest Neighbors (KNN)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 206,
+        "course_id": 3,
+        "tutorial_title": "Mengapa Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 207,
+        "course_id": 3,
+        "tutorial_title": "Oversampling dan Undersampling",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 208,
+        "course_id": 3,
+        "tutorial_title": "Pembangunan Model (Modelling)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 209,
+        "course_id": 3,
+        "tutorial_title": "Contoh Algoritma Regresi - Decision Tree Regression",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 210,
+        "course_id": 3,
+        "tutorial_title": "Latihan SKLearn Cross Validation Split",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 211,
+        "course_id": 3,
+        "tutorial_title": "[Story] Katakan Tidak pada Salah Prediksi!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 212,
+        "course_id": 3,
+        "tutorial_title": "Machine Learning Use Case",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 213,
+        "course_id": 3,
+        "tutorial_title": "[Story] Cerita Si Coffee Enthusiast",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 214,
+        "course_id": 3,
+        "tutorial_title": "Pengantar Feature Engineering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 215,
+        "course_id": 3,
+        "tutorial_title": "Support Vector Regression",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 216,
+        "course_id": 3,
+        "tutorial_title": "[Story] Machine Learning di Mana-Mana",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 217,
+        "course_id": 3,
+        "tutorial_title": "Convolutional Neural Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 218,
+        "course_id": 3,
+        "tutorial_title": "Data Splitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 219,
+        "course_id": 3,
+        "tutorial_title": "Metode Evaluasi: Elbow Method",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 220,
+        "course_id": 3,
+        "tutorial_title": "Dimensionality Reduction : LDA, PCA, dan t-SNE",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 221,
+        "course_id": 3,
+        "tutorial_title": "Kuis Optimasi Model dengan Hyperparameter Tuning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 222,
+        "course_id": 3,
+        "tutorial_title": "Supervised Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 223,
+        "course_id": 3,
+        "tutorial_title": "Kuis Supervised Learning - Klasifikasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 224,
+        "course_id": 3,
+        "tutorial_title": "Scaling Fitur",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 225,
+        "course_id": 3,
+        "tutorial_title": "Definisi dan Konsep Dasar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 226,
+        "course_id": 3,
+        "tutorial_title": "[Story] Membuat Tujuan, Mengejar Impian!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 227,
+        "course_id": 3,
+        "tutorial_title": "Kuis Supervised Learning - Regresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 228,
+        "course_id": 3,
+        "tutorial_title": "Latihan SKLearn Logistic Regression",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 229,
+        "course_id": 3,
+        "tutorial_title": "Strategi Hyperparameter Tuning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 230,
+        "course_id": 3,
+        "tutorial_title": "Data Collecting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 231,
+        "course_id": 3,
+        "tutorial_title": "Random Forest",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 232,
+        "course_id": 3,
+        "tutorial_title": "Komponen Utama dalam Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 233,
+        "course_id": 3,
+        "tutorial_title": "SMOTE (Synthetic Minority Over-Sampling Technique)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 234,
+        "course_id": 3,
+        "tutorial_title": "Grid Search",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 235,
+        "course_id": 3,
+        "tutorial_title": "Contoh Algoritma Regresi - Support Vector Regression (SVR)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 236,
+        "course_id": 3,
+        "tutorial_title": "Jenis-Jenis Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 237,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Overfitting dan Underfitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 238,
+        "course_id": 3,
+        "tutorial_title": "Adjustment dan Re-learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 239,
+        "course_id": 3,
+        "tutorial_title": "Konsep Dasar Klasifikasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 240,
+        "course_id": 3,
+        "tutorial_title": "[Story] Andai Aku Bisa",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 241,
+        "course_id": 3,
+        "tutorial_title": "Latihan SKLearn SVR",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 242,
+        "course_id": 3,
+        "tutorial_title": "Tantangan dalam Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 243,
+        "course_id": 3,
+        "tutorial_title": "Data Storage/Warehouse",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 244,
+        "course_id": 3,
+        "tutorial_title": "Penyebab Overfitting dan Underfitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 245,
+        "course_id": 3,
+        "tutorial_title": "Pengenalan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 246,
+        "course_id": 3,
+        "tutorial_title": "Deployment dan Monitoring",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 247,
+        "course_id": 3,
+        "tutorial_title": "Evaluasi Model Clustering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 248,
+        "course_id": 3,
+        "tutorial_title": "Latihan SKLearn PCA",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 249,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 250,
+        "course_id": 3,
+        "tutorial_title": "Prasyarat Kemampuan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 251,
+        "course_id": 3,
+        "tutorial_title": "Pengantar Supervised Learning - Regresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 252,
+        "course_id": 3,
+        "tutorial_title": "Latihan: Mengumpulkan Data dari Sumber Terbuka",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 253,
+        "course_id": 3,
+        "tutorial_title": "[Story] Jalan-Jalan di Hari Weekend. Cakeep",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 254,
+        "course_id": 3,
+        "tutorial_title": "Konsep Dasar Clustering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 255,
+        "course_id": 3,
+        "tutorial_title": "Random Search",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 256,
+        "course_id": 3,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 257,
+        "course_id": 3,
+        "tutorial_title": "Naive Bayes",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 258,
+        "course_id": 3,
+        "tutorial_title": "Latihan: Data Cleaning dan Transformation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 259,
+        "course_id": 3,
+        "tutorial_title": "Latihan: Studi Kasus Feature Engineering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 260,
+        "course_id": 3,
+        "tutorial_title": "Teknik Pemilihan Fitur (Feature Selection)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 261,
+        "course_id": 3,
+        "tutorial_title": "Contoh Algoritma Regresi - Neural Network Regression",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 262,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Klasifikasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 263,
+        "course_id": 3,
+        "tutorial_title": "Kuis Overfitting dan Underfitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 264,
+        "course_id": 3,
+        "tutorial_title": "Proyek Akhir : Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 265,
+        "course_id": 3,
+        "tutorial_title": "Jenis-Jenis Klasifikasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 266,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Feature Engineering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 267,
+        "course_id": 3,
+        "tutorial_title": "Merumuskan Masalah dalam Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 268,
+        "course_id": 3,
+        "tutorial_title": "Tantangan: Keluarkan Pendapat Anda!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 269,
+        "course_id": 3,
+        "tutorial_title": "Datasets",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 270,
+        "course_id": 3,
+        "tutorial_title": "Metode Deteksi Overfitting dan Underfitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 271,
+        "course_id": 3,
+        "tutorial_title": "Keras Library",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 272,
+        "course_id": 3,
+        "tutorial_title": "[Story] Dimulai dari Nol ya, Dek.",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 273,
+        "course_id": 3,
+        "tutorial_title": "[Story] Diskon adalah Kecintaannya Kita Semua",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 274,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Support Vector Machine",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 275,
+        "course_id": 3,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 276,
+        "course_id": 3,
+        "tutorial_title": "Prasyarat Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 277,
+        "course_id": 3,
+        "tutorial_title": "[Story] Semakin Tahu, Semakin Merasa Bodoh",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 278,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Neural Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 279,
+        "course_id": 3,
+        "tutorial_title": "Latihan: Data Loading",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 280,
+        "course_id": 3,
+        "tutorial_title": "Hierarchical Clustering (HC)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 281,
+        "course_id": 3,
+        "tutorial_title": "K-Means Clustering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 282,
+        "course_id": 3,
+        "tutorial_title": "Bayesian Optimization",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 283,
+        "course_id": 3,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 284,
+        "course_id": 3,
+        "tutorial_title": "Evaluasi Model Klasifikasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 285,
+        "course_id": 3,
+        "tutorial_title": "Data Loading",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 286,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Teknik Feature Engineering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 287,
+        "course_id": 3,
+        "tutorial_title": "Evaluasi Model Regresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 288,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Regresi dalam Konteks Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 289,
+        "course_id": 3,
+        "tutorial_title": "Pengantar Hyperparameter Tuning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 290,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Clustering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 291,
+        "course_id": 3,
+        "tutorial_title": "Pengenalan Algoritma Klasifikasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 292,
+        "course_id": 3,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 293,
+        "course_id": 3,
+        "tutorial_title": "Binning Numerik ke Kategorikal",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 294,
+        "course_id": 3,
+        "tutorial_title": "Pendahuluan Machine Learning Workflow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 295,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Hi, Machine Learning!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 296,
+        "course_id": 3,
+        "tutorial_title": "Evaluasi Model setelah Hyperparameter Tuning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 297,
+        "course_id": 3,
+        "tutorial_title": "Teknik Mengatasi Overfitting dan Underfitting",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 298,
+        "course_id": 3,
+        "tutorial_title": "Latihan Membuat Model Klasifikasi Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 299,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Machine Learning Workflow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 300,
+        "course_id": 3,
+        "tutorial_title": "Rangkuman Unsupervised Learning - Clustering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 301,
+        "course_id": 3,
+        "tutorial_title": "Support Vector Machine (SVM)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 1033,
+        "course_id": 11,
+        "tutorial_title": "Mengenal Concurrency",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 302,
+        "course_id": 3,
+        "tutorial_title": "Membangun Proyek Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 303,
+        "course_id": 3,
+        "tutorial_title": "Pertama, Mari Kita Sapa-menyapa!",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 304,
+        "course_id": 3,
+        "tutorial_title": "Jenis-Jenis Regression",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 305,
+        "course_id": 3,
+        "tutorial_title": "Artificial Neural Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 306,
+        "course_id": 3,
+        "tutorial_title": "Exploratory dan Explanatory Data Analysis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 307,
+        "course_id": 3,
+        "tutorial_title": "Non-hierarchical Clustering (NHC)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 308,
+        "course_id": 3,
+        "tutorial_title": "Latihan Studi Kasus Clustering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 309,
+        "course_id": 3,
+        "tutorial_title": "Studi Kasus Hyperparameter Tuning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 310,
+        "course_id": 3,
+        "tutorial_title": "Glossarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 311,
+        "course_id": 3,
+        "tutorial_title": "[Story] Practice Makes Perfect",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 312,
+        "course_id": 3,
+        "tutorial_title": "Data Cleaning dan Transformation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 313,
+        "course_id": 3,
+        "tutorial_title": "Kuis Teknik Feature Engineering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 314,
+        "course_id": 4,
+        "tutorial_title": "Pengenalan Computer Vision",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 315,
+        "course_id": 4,
+        "tutorial_title": "Analisis Sentimen dengan Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 316,
+        "course_id": 4,
+        "tutorial_title": "Ceklis Kriteria Submission",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 317,
+        "course_id": 4,
+        "tutorial_title": "Aplikasi Natural Language Processing di Dunia Nyata",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 318,
+        "course_id": 4,
+        "tutorial_title": "Prasyarat Kemampuan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 319,
+        "course_id": 4,
+        "tutorial_title": "Pengenalan Object Detection",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 320,
+        "course_id": 4,
+        "tutorial_title": "Struktur Proyek Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 321,
+        "course_id": 4,
+        "tutorial_title": "Model Development dengan Boosting Algorithm",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 322,
+        "course_id": 4,
+        "tutorial_title": "Proses Training",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 323,
+        "course_id": 4,
+        "tutorial_title": "Exploratory Data Analysis - Menangani Missing Value dan Outliers",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 324,
+        "course_id": 4,
+        "tutorial_title": "Content Based Filtering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 325,
+        "course_id": 4,
+        "tutorial_title": "Implementasi SVM untuk Analisis Sentimen pada Data IndoNLU",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 326,
+        "course_id": 4,
+        "tutorial_title": "Alur Proyek Machine Learning di Industri",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 327,
+        "course_id": 4,
+        "tutorial_title": "Detail Laporan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 328,
+        "course_id": 4,
+        "tutorial_title": "Univariate Exploratory Data Analysis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 329,
+        "course_id": 4,
+        "tutorial_title": "Predictive Analytics Lifecycle",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 330,
+        "course_id": 4,
+        "tutorial_title": "Testing Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 331,
+        "course_id": 4,
+        "tutorial_title": "Persiapan Dataset Analisis Sentimen",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 332,
+        "course_id": 4,
+        "tutorial_title": "Glosarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 333,
+        "course_id": 4,
+        "tutorial_title": "Kuis Sentiment Analysis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 334,
+        "course_id": 4,
+        "tutorial_title": "Rangkuman Menyusun Proyek Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 335,
+        "course_id": 4,
+        "tutorial_title": "Technical Writing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 336,
+        "course_id": 4,
+        "tutorial_title": "Penerapan Computer Vision di Industri",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 337,
+        "course_id": 4,
+        "tutorial_title": "Pengenalan IndoNLU",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 338,
+        "course_id": 4,
+        "tutorial_title": "Ceklis Kriteria Submission Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 339,
+        "course_id": 4,
+        "tutorial_title": "Teknik Natural Language Processing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 340,
+        "course_id": 4,
+        "tutorial_title": "Prasyarat Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 341,
+        "course_id": 4,
+        "tutorial_title": "Teknik-teknik Object Detection",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 342,
+        "course_id": 4,
+        "tutorial_title": "Evaluasi Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 343,
+        "course_id": 4,
+        "tutorial_title": "Rangkuman Studi Kasus Keempat: Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 344,
+        "course_id": 4,
+        "tutorial_title": "Exploratory Data Analysis - Univariate Analysis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 345,
+        "course_id": 4,
+        "tutorial_title": "Collaborative Filtering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 346,
+        "course_id": 4,
+        "tutorial_title": "Analisis Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 347,
+        "course_id": 4,
+        "tutorial_title": "Infrastruktur Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 348,
+        "course_id": 4,
+        "tutorial_title": "Proyek Akhir Kirim Submission dan Review",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 349,
+        "course_id": 4,
+        "tutorial_title": "Data Preprocessing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 350,
+        "course_id": 4,
+        "tutorial_title": "Business Understanding",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 351,
+        "course_id": 4,
+        "tutorial_title": "Pendahuluan Studi Kasus Keempat: Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 352,
+        "course_id": 4,
+        "tutorial_title": "Uji Model dengan Contoh Kalimat",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 353,
+        "course_id": 4,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 354,
+        "course_id": 4,
+        "tutorial_title": "Proyek Pertama : Predictive Analytics",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 355,
+        "course_id": 4,
+        "tutorial_title": "Exploratory Data Analysis - Multivariate Analysis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 356,
+        "course_id": 4,
+        "tutorial_title": "Teknik Pengenalan Objek (Object Recognition)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 357,
+        "course_id": 4,
+        "tutorial_title": "Pengenalan Library PyTorch",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 358,
+        "course_id": 4,
+        "tutorial_title": "Tantangan Natural Language Processing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 359,
+        "course_id": 4,
+        "tutorial_title": "Model Development",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 360,
+        "course_id": 4,
+        "tutorial_title": "Detektor Wajah pada Gambar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 361,
+        "course_id": 4,
+        "tutorial_title": "Kuis Menyusun Proyek Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 362,
+        "course_id": 4,
+        "tutorial_title": "Rangkuman Studi Kasus Pertama: Predictive Analytics",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 363,
+        "course_id": 4,
+        "tutorial_title": "Kuis Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 364,
+        "course_id": 4,
+        "tutorial_title": "Pendahuluan Studi Kasus Kedua: Sentiment Analysis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 365,
+        "course_id": 4,
+        "tutorial_title": "Hybrid Recommender System",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 366,
+        "course_id": 4,
+        "tutorial_title": "Feature Engineering dengan TF-IDF",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 367,
+        "course_id": 4,
+        "tutorial_title": "Data Engineering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 368,
+        "course_id": 4,
+        "tutorial_title": "Data Preparation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 369,
+        "course_id": 4,
+        "tutorial_title": "Data Understanding",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 370,
+        "course_id": 4,
+        "tutorial_title": "Pengenalan Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 371,
+        "course_id": 4,
+        "tutorial_title": "Fine Tuning dan Evaluasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 372,
+        "course_id": 4,
+        "tutorial_title": "Pengenalan Machine Learning System Design",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 373,
+        "course_id": 4,
+        "tutorial_title": "Proyek Pertama Kriteria Submission",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 374,
+        "course_id": 4,
+        "tutorial_title": "Publikasi Proyek Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 375,
+        "course_id": 4,
+        "tutorial_title": "Membuat Model Klasifikasi Rambu Lalu Lintas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 376,
+        "course_id": 4,
+        "tutorial_title": "Dataset Analisis Sentimen IndoNLU",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 377,
+        "course_id": 4,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 378,
+        "course_id": 4,
+        "tutorial_title": "Natural Language Processing Pipeline",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 379,
+        "course_id": 4,
+        "tutorial_title": "Deployment dan Monitoring",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 380,
+        "course_id": 4,
+        "tutorial_title": "Membuat Detektor Wajah dengan Algoritma Haar Cascade",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 381,
+        "course_id": 4,
+        "tutorial_title": "Latihan Membuat Proyek Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 382,
+        "course_id": 4,
+        "tutorial_title": "Kuis Predictive Analytics",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 383,
+        "course_id": 4,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 384,
+        "course_id": 4,
+        "tutorial_title": "Data untuk Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 385,
+        "course_id": 4,
+        "tutorial_title": "Klasifikasi Sentimen dengan Support Vector Machine",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 386,
+        "course_id": 4,
+        "tutorial_title": "Pendahuluan Menyusun Proyek Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 387,
+        "course_id": 4,
+        "tutorial_title": "Model Development dengan K-Nearest Neighbor",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 388,
+        "course_id": 4,
+        "tutorial_title": "Model Development dengan Content Based Filtering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 389,
+        "course_id": 4,
+        "tutorial_title": "Data Loading",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 390,
+        "course_id": 4,
+        "tutorial_title": "Mengapa Sistem Rekomendasi Penting?",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 391,
+        "course_id": 4,
+        "tutorial_title": "Prediksi Sentimen",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 392,
+        "course_id": 4,
+        "tutorial_title": "Sistem Machine Learning di Dunia Riset/Akademik versus Industri",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 393,
+        "course_id": 4,
+        "tutorial_title": "Proyek Pertama Kirim Submission dan Review",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 394,
+        "course_id": 4,
+        "tutorial_title": "Rangkuman Studi Kasus Ketiga: Computer Vision",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 395,
+        "course_id": 4,
+        "tutorial_title": "Proyek Akhir : Membuat Model Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 396,
+        "course_id": 4,
+        "tutorial_title": "Eksplorasi Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 397,
+        "course_id": 4,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 398,
+        "course_id": 4,
+        "tutorial_title": "Akuisisi Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 399,
+        "course_id": 4,
+        "tutorial_title": "Rangkuman Machine Learning System Design",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 400,
+        "course_id": 4,
+        "tutorial_title": "Pendahuluan Studi Kasus Ketiga: Computer Vision",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 401,
+        "course_id": 4,
+        "tutorial_title": "Feature Engineering untuk Representasi Teks",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 402,
+        "course_id": 4,
+        "tutorial_title": "Ujian Akhir Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 403,
+        "course_id": 4,
+        "tutorial_title": "Pengenalan Natural Language Processing (NLP)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 404,
+        "course_id": 4,
+        "tutorial_title": "Similarity Measure",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 405,
+        "course_id": 4,
+        "tutorial_title": "Rangkuman Studi Kasus Kedua: Sentiment Analysis",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 406,
+        "course_id": 4,
+        "tutorial_title": "Ide Portofolio Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 407,
+        "course_id": 4,
+        "tutorial_title": "Model Development dengan Random Forest",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 408,
+        "course_id": 4,
+        "tutorial_title": "Model Development dengan Collaborative Filtering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 409,
+        "course_id": 4,
+        "tutorial_title": "Exploratory Data Analysis - Deskripsi Variabel",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 410,
+        "course_id": 4,
+        "tutorial_title": "Taksonomi Sistem Rekomendasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 411,
+        "course_id": 4,
+        "tutorial_title": "Analisis Sentimen dengan Support Vector Machine (SVM)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 412,
+        "course_id": 4,
+        "tutorial_title": "Persyaratan Machine Learning System Design",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 413,
+        "course_id": 4,
+        "tutorial_title": "Proyek Akhir Kriteria Submission",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 414,
+        "course_id": 4,
+        "tutorial_title": "Kuis Computer Vision",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 415,
+        "course_id": 4,
+        "tutorial_title": "Pendahuluan Studi Kasus Pertama: Predictive Analytics",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 416,
+        "course_id": 4,
+        "tutorial_title": "Training dengan Convolutional Neural Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 417,
+        "course_id": 4,
+        "tutorial_title": "Konfigurasi dan Load Pre-trained Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 418,
+        "course_id": 4,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 419,
+        "course_id": 4,
+        "tutorial_title": "Text Cleaning dan Pre-processing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 420,
+        "course_id": 4,
+        "tutorial_title": "Kuis Machine Learning System Design",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 421,
+        "course_id": 5,
+        "tutorial_title": "Reproducibility dalam TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 422,
+        "course_id": 5,
+        "tutorial_title": "Mengurutkan Hasil Kembali dengan Learning-to-Rank",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 423,
+        "course_id": 5,
+        "tutorial_title": "Pendekatan Deep Learning Lanjutan Versi Parallelism",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 424,
+        "course_id": 5,
+        "tutorial_title": "Pengantar Custom dan Distributed Training dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 425,
+        "course_id": 5,
+        "tutorial_title": "Pengantar Computer Vision Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 426,
+        "course_id": 5,
+        "tutorial_title": "Eksplorasi Data dalam Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 427,
+        "course_id": 5,
+        "tutorial_title": "Kustomisasi Callback",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 428,
+        "course_id": 5,
+        "tutorial_title": "Mengenal Transformer dalam NLP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 429,
+        "course_id": 5,
+        "tutorial_title": "Tensor dalam TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 430,
+        "course_id": 5,
+        "tutorial_title": "Teknik-Teknik Sistem Rekomendasi Lanjutan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 431,
+        "course_id": 5,
+        "tutorial_title": "Kustomisasi Loss Function",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 432,
+        "course_id": 5,
+        "tutorial_title": "Berhadapan dengan Data Tidak Berlabel",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 433,
+        "course_id": 5,
+        "tutorial_title": "Latihan Bersama TCN dan LSTM",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 434,
+        "course_id": 5,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 435,
+        "course_id": 5,
+        "tutorial_title": "Checkpoint dan Saving Model Manual",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 436,
+        "course_id": 5,
+        "tutorial_title": "Berkenalan dengan Image Segmentation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 437,
+        "course_id": 5,
+        "tutorial_title": "Rangkuman Menyelam Lebih Dalam ke TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 438,
+        "course_id": 5,
+        "tutorial_title": "Retrieval dalam Sistem Rekomendasi dengan TensorFlow Recommenders",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 439,
+        "course_id": 5,
+        "tutorial_title": "Rangkuman Time Series Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 440,
+        "course_id": 5,
+        "tutorial_title": "Automatic Differentiation dengan tf.GradientTape",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 441,
+        "course_id": 5,
+        "tutorial_title": "Klasifikasi Gambar Lanjutan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 442,
+        "course_id": 5,
+        "tutorial_title": "Neural Collaborative Filtering",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 443,
+        "course_id": 5,
+        "tutorial_title": "Data Preprocessing Lanjutan Untuk Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 444,
+        "course_id": 5,
+        "tutorial_title": "Latihan Custom Model, Layer, Loss, dan Callback pada Time Series Model",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 445,
+        "course_id": 5,
+        "tutorial_title": "Latihan Membangun Model Transformer Milik Kita Sendiri dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 446,
+        "course_id": 5,
+        "tutorial_title": "Manipulasi Tensor dengan Operasi Dasar dan Matematika",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 447,
+        "course_id": 5,
+        "tutorial_title": "Fungsi Custom Loss untuk Tantangan yang Lebih Spesifik",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 448,
+        "course_id": 5,
+        "tutorial_title": "Latihan Data Labeling",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 449,
+        "course_id": 5,
+        "tutorial_title": "Latihan Multivariate Sequence to Sequence",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 450,
+        "course_id": 5,
+        "tutorial_title": "Glosarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 451,
+        "course_id": 5,
+        "tutorial_title": "Distributed Training",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 452,
+        "course_id": 5,
+        "tutorial_title": "Image Segmentation dengan Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 453,
+        "course_id": 5,
+        "tutorial_title": "Kuis Menyelam Lebih Dalam ke TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 454,
+        "course_id": 5,
+        "tutorial_title": "Rangkuman Sistem Rekomendasi Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 455,
+        "course_id": 5,
+        "tutorial_title": "Kuis Time Series Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 456,
+        "course_id": 5,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 457,
+        "course_id": 5,
+        "tutorial_title": "Custom Training Loop",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 458,
+        "course_id": 5,
+        "tutorial_title": "Berkenalan dengan Object Detection",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 459,
+        "course_id": 5,
+        "tutorial_title": "Context-Aware Recommendations",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 460,
+        "course_id": 5,
+        "tutorial_title": "Feature Engineering dalam Time Series",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 461,
+        "course_id": 5,
+        "tutorial_title": "Rangkuman Custom Model, Layer, Loss, dan Callback",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 462,
+        "course_id": 5,
+        "tutorial_title": "Latihan Melatih Model Transformer Milik Kita",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 463,
+        "course_id": 5,
+        "tutorial_title": "Eksplorasi Tensor dalam Eager Mode",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 464,
+        "course_id": 5,
+        "tutorial_title": "Rangkuman Computer Vision Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 465,
+        "course_id": 5,
+        "tutorial_title": "Kustomisasi Lambda Layer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 466,
+        "course_id": 5,
+        "tutorial_title": "Data Labeling dalam NLP dengan Active Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 467,
+        "course_id": 5,
+        "tutorial_title": "Proyek Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 468,
+        "course_id": 5,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 469,
+        "course_id": 5,
+        "tutorial_title": "Strategi Distributed Training dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 470,
+        "course_id": 5,
+        "tutorial_title": "Pengantar Kustomisasi Model, Layer, Loss, dan Callback",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 471,
+        "course_id": 5,
+        "tutorial_title": "Kuis Sistem Rekomendasi Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 472,
+        "course_id": 5,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 473,
+        "course_id": 5,
+        "tutorial_title": "Prasyarat Kemampuan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 474,
+        "course_id": 5,
+        "tutorial_title": "Dynamic Training",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 475,
+        "course_id": 5,
+        "tutorial_title": "Teknik Object Detection dengan Deep Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 476,
+        "course_id": 5,
+        "tutorial_title": "Hybrid Recommender System",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 477,
+        "course_id": 5,
+        "tutorial_title": "Kita Mulai dengan Model Statistik",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 478,
+        "course_id": 5,
+        "tutorial_title": "Kuis Kustomisasi Model, Layer, Loss, dan Callback",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 479,
+        "course_id": 5,
+        "tutorial_title": "Rangkuman Natural Language Processing Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 480,
+        "course_id": 5,
+        "tutorial_title": "Graph Mode",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 481,
+        "course_id": 5,
+        "tutorial_title": "Kuis Computer Vision Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 482,
+        "course_id": 5,
+        "tutorial_title": "Kustomisasi Layer dengan Subclassing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 483,
+        "course_id": 5,
+        "tutorial_title": "Pre-processing Data dengan tf.strings dan TensorFlow Text",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 484,
+        "course_id": 5,
+        "tutorial_title": "Pengantar Menyelam Lebih Dalam ke TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 485,
+        "course_id": 5,
+        "tutorial_title": "Rangkuman Custom dan Distributed Training dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 486,
+        "course_id": 5,
+        "tutorial_title": "Functional API vs Sequential API",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 487,
+        "course_id": 5,
+        "tutorial_title": "Kuis Custom dan Distributed Training dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 488,
+        "course_id": 5,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 489,
+        "course_id": 5,
+        "tutorial_title": "Prasyarat Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 490,
+        "course_id": 5,
+        "tutorial_title": "Latihan: Custom dan Dynamic Training",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 491,
+        "course_id": 5,
+        "tutorial_title": "Latihan Inference Object Detection",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 492,
+        "course_id": 5,
+        "tutorial_title": "Latihan Hybrid Recommendation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 493,
+        "course_id": 5,
+        "tutorial_title": "Pendekatan Deep Learning Lanjutan Versi Sequence",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 494,
+        "course_id": 5,
+        "tutorial_title": "Pengenalan Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 495,
+        "course_id": 5,
+        "tutorial_title": "Kuis Natural Language Processing Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 496,
+        "course_id": 5,
+        "tutorial_title": "Autograph dan TensorFlow Function",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 1349,
+        "course_id": 13,
+        "tutorial_title": "Menghubungkan Jaringan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 497,
+        "course_id": 5,
+        "tutorial_title": "Pengantar Time Series Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 498,
+        "course_id": 5,
+        "tutorial_title": "Arsitektur Kompleks Functional API vs Model Class",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 499,
+        "course_id": 5,
+        "tutorial_title": "Data Augmentation dalam NLP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 500,
+        "course_id": 5,
+        "tutorial_title": "Kedalaman TensorFlow di Kebanyakan Siswa",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 501,
+        "course_id": 5,
+        "tutorial_title": "Pengantar Sistem Rekomendasi Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 502,
+        "course_id": 5,
+        "tutorial_title": "Multiple Output dan Input pada Model Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 503,
+        "course_id": 5,
+        "tutorial_title": "Pengantar Natural Language Processing Lanjutan dengan TensorFlow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 504,
+        "course_id": 5,
+        "tutorial_title": "Latihan Sequence to Sequence",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 505,
+        "course_id": 5,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 506,
+        "course_id": 5,
+        "tutorial_title": "Debugging pada Custom Training",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 507,
+        "course_id": 5,
+        "tutorial_title": "Latihan Fine-Tuning Object Detection",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 508,
+        "course_id": 6,
+        "tutorial_title": "Library Text Processing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 509,
+        "course_id": 6,
+        "tutorial_title": "Bersiap Membuat Kode Program di Lokal",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 510,
+        "course_id": 6,
+        "tutorial_title": "Implementasi Matriks pada Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 511,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Fungsi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 512,
+        "course_id": 6,
+        "tutorial_title": "[DEPRECATED]",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 513,
+        "course_id": 6,
+        "tutorial_title": "Kuis Control Flow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 514,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Control Flow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 515,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Operasi List",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 516,
+        "course_id": 6,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 517,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Ekspresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 518,
+        "course_id": 6,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 519,
+        "course_id": 6,
+        "tutorial_title": "Pengantar Unit Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 520,
+        "course_id": 6,
+        "tutorial_title": "Implementasi Array dengan Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 521,
+        "course_id": 6,
+        "tutorial_title": "Transformasi Angka, Karakter, dan String",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 522,
+        "course_id": 6,
+        "tutorial_title": "Library Machine Learning",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 523,
+        "course_id": 6,
+        "tutorial_title": "Pengertian Ekspresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 524,
+        "course_id": 6,
+        "tutorial_title": "Definisi Subprogram",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 525,
+        "course_id": 6,
+        "tutorial_title": "Memformat Kode",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 526,
+        "course_id": 6,
+        "tutorial_title": "Kuis Object-Oriented Programming (OOP)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 527,
+        "course_id": 6,
+        "tutorial_title": "Library Matematika",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 528,
+        "course_id": 6,
+        "tutorial_title": "Input/Output dan Komentar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 529,
+        "course_id": 6,
+        "tutorial_title": "Class, Object, dan Method",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 530,
+        "course_id": 6,
+        "tutorial_title": "Penerapan Unit Test dengan Library unittest",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 531,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Perulangan dan Percabangan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 532,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Matriks",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 533,
+        "course_id": 6,
+        "tutorial_title": "Pengenalan Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 534,
+        "course_id": 6,
+        "tutorial_title": "Percabangan dan Ternary Operators",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 535,
+        "course_id": 6,
+        "tutorial_title": "Kuis Berkenalan dengan Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 536,
+        "course_id": 6,
+        "tutorial_title": "Pemrosesan Sekuensial pada Array",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 537,
+        "course_id": 6,
+        "tutorial_title": "Operasi pada List, Set, dan String",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 538,
+        "course_id": 6,
+        "tutorial_title": "Library Web Development",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 539,
+        "course_id": 6,
+        "tutorial_title": "Jenis-Jenis Ekspresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 540,
+        "course_id": 6,
+        "tutorial_title": "Menjalankan Kode Program di Lokal",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 541,
+        "course_id": 6,
+        "tutorial_title": "Style Guide Statement Gabungan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 542,
+        "course_id": 6,
+        "tutorial_title": "Kuis Matriks",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 543,
+        "course_id": 6,
+        "tutorial_title": "Library Parser",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 544,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Berkenalan dengan Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 545,
+        "course_id": 6,
+        "tutorial_title": "Kuis Ekspresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 546,
+        "course_id": 6,
+        "tutorial_title": "Inheritance (Pewarisan)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 547,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Unit Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 548,
+        "course_id": 6,
+        "tutorial_title": "Pengenalan Aksi Sekuensial",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 549,
+        "course_id": 6,
+        "tutorial_title": "Fungsi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 550,
+        "course_id": 6,
+        "tutorial_title": "Prasyarat Kemampuan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 551,
+        "course_id": 6,
+        "tutorial_title": "Perulangan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 552,
+        "course_id": 6,
+        "tutorial_title": "Kuis Berinteraksi dengan Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 553,
+        "course_id": 6,
+        "tutorial_title": "Duck Typing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 554,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Berinteraksi dengan Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 555,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Library Populer pada Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 556,
+        "course_id": 6,
+        "tutorial_title": "Abstraksi Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 557,
+        "course_id": 6,
+        "tutorial_title": "Glossarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 558,
+        "course_id": 6,
+        "tutorial_title": "Style Guide Prinsip Penamaan pada Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 559,
+        "course_id": 6,
+        "tutorial_title": "Kuis Subprogram",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 560,
+        "course_id": 6,
+        "tutorial_title": "Library Pengolahan Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 561,
+        "course_id": 6,
+        "tutorial_title": "One-liner",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 562,
+        "course_id": 6,
+        "tutorial_title": "Kuis Array dan Pemrosesannya",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 563,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Object-Oriented Programming (OOP)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 564,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Array atau List",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 565,
+        "course_id": 6,
+        "tutorial_title": "Kuis Unit Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 566,
+        "course_id": 6,
+        "tutorial_title": "Pengenalan Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 567,
+        "course_id": 6,
+        "tutorial_title": "Python Interpreter",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 568,
+        "course_id": 6,
+        "tutorial_title": "Prosedur",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 569,
+        "course_id": 6,
+        "tutorial_title": "Prasyarat Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 570,
+        "course_id": 6,
+        "tutorial_title": "Penanganan Kesalahan (Error Handling and Exception Handling)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 571,
+        "course_id": 6,
+        "tutorial_title": "Kuis Aksi Sekuensial",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 572,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Array dan Pemrosesannya",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 573,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Tipe Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 574,
+        "course_id": 6,
+        "tutorial_title": "Kuis Library Populer pada Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 575,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Ekspresi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 576,
+        "course_id": 6,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 577,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Style Guide pada Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 578,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Variabel dan Assignment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 579,
+        "course_id": 6,
+        "tutorial_title": "Library File Management",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 580,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Aksi Sekuensial",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 581,
+        "course_id": 6,
+        "tutorial_title": "Latihan Array",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 582,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Object-oriented Programming",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 583,
+        "course_id": 6,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 584,
+        "course_id": 6,
+        "tutorial_title": "Pengenalan Library",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 585,
+        "course_id": 6,
+        "tutorial_title": "Menjalankan Kode Program Pertama",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 586,
+        "course_id": 6,
+        "tutorial_title": "Fundamental Matriks",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 587,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Subprogram",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 588,
+        "course_id": 6,
+        "tutorial_title": "Knowledge Check - Control Flow",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 589,
+        "course_id": 6,
+        "tutorial_title": "Data Typing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 590,
+        "course_id": 6,
+        "tutorial_title": "Kuis Coding: Dictionary",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 591,
+        "course_id": 6,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 592,
+        "course_id": 6,
+        "tutorial_title": "Jenis-Jenis Operator",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 593,
+        "course_id": 6,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 594,
+        "course_id": 6,
+        "tutorial_title": "Kuis Style Guide pada Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 595,
+        "course_id": 6,
+        "tutorial_title": "Fundamental Array",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 596,
+        "course_id": 6,
+        "tutorial_title": "Tipe Data",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 597,
+        "course_id": 6,
+        "tutorial_title": "Library Web Scraping",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 598,
+        "course_id": 6,
+        "tutorial_title": "Variable dan Assignment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 599,
+        "course_id": 6,
+        "tutorial_title": "Operasi Matriks pada Python",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 600,
+        "course_id": 6,
+        "tutorial_title": "Pengecekan Style Guide PEP8",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 601,
+        "course_id": 7,
+        "tutorial_title": "Teori AlarmManager",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 602,
+        "course_id": 7,
+        "tutorial_title": "WebView : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 603,
+        "course_id": 7,
+        "tutorial_title": "Latihan Localization untuk Mendukung Multi-Language",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 604,
+        "course_id": 7,
+        "tutorial_title": "Latihan Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 605,
+        "course_id": 7,
+        "tutorial_title": "Latihan Unit Test Menggunakan JUnit dan Mockito",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 606,
+        "course_id": 7,
+        "tutorial_title": "Latihan Flexible Fragment di Satu Activity",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 608,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan View dan ViewGroup",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 609,
+        "course_id": 7,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 610,
+        "course_id": 7,
+        "tutorial_title": "Teori File Storage",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 611,
+        "course_id": 7,
+        "tutorial_title": "Prasyarat Kemampuan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 612,
+        "course_id": 7,
+        "tutorial_title": "Latihan SearchBar dan SearchView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 613,
+        "course_id": 7,
+        "tutorial_title": "Android Notification : Bedah Kode - Stack / Bundle Notification (Sudah tidak dipakai)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 614,
+        "course_id": 7,
+        "tutorial_title": "Intent : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 615,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menjalankan Firebase Cloud Messaging (FCM)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 616,
+        "course_id": 7,
+        "tutorial_title": "Loader : Teori",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 617,
+        "course_id": 7,
+        "tutorial_title": "Latihan Implementasi Library Glide",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 618,
+        "course_id": 7,
+        "tutorial_title": "Shared Preference : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 619,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Layout",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 620,
+        "course_id": 7,
+        "tutorial_title": "Latihan MediaPlayer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 621,
+        "course_id": 7,
+        "tutorial_title": "Mengenal Navigasi, Task dan Back Stack : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 622,
+        "course_id": 7,
+        "tutorial_title": "Teori Custom View",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 623,
+        "course_id": 7,
+        "tutorial_title": "Latihan Item Click Listener pada RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 624,
+        "course_id": 7,
+        "tutorial_title": "Teori LiveData",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 625,
+        "course_id": 7,
+        "tutorial_title": "Latihan Explicit Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 626,
+        "course_id": 7,
+        "tutorial_title": "RecyclerView : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 627,
+        "course_id": 7,
+        "tutorial_title": "Bedah Kode Job Scheduler",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 628,
+        "course_id": 7,
+        "tutorial_title": "Teori WorkManager",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 629,
+        "course_id": 7,
+        "tutorial_title": "Teori SharedPreferences",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 630,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 631,
+        "course_id": 7,
+        "tutorial_title": "Latihan Notification dengan PendingIntent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 632,
+        "course_id": 7,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 633,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Background Thread dan Networking",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 634,
+        "course_id": 7,
+        "tutorial_title": "Style dan Theme : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 635,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Android Jetpack",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 636,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan Debugging",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 637,
+        "course_id": 7,
+        "tutorial_title": "Latihan One Time AlarmManager",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 638,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan Library & ViewBinding",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 639,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Android Architecture Component",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 640,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 641,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menampilkan Widget di Homepage",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 642,
+        "course_id": 7,
+        "tutorial_title": "Job Scheduler : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 643,
+        "course_id": 7,
+        "tutorial_title": "Latihan Membuat Halaman Setting dengan dengan PreferenceScreen",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 644,
+        "course_id": 7,
+        "tutorial_title": "Latihan LinearLayout, RelativeLayout, FrameLayout, dan TableLayout",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 645,
+        "course_id": 7,
+        "tutorial_title": "Glosarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 646,
+        "course_id": 7,
+        "tutorial_title": "Teori SoundPool dan MediaPlayer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 647,
+        "course_id": 7,
+        "tutorial_title": "Prasyarat Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 648,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Android",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 649,
+        "course_id": 7,
+        "tutorial_title": "Teori AppBar, Navigation Drawer, Bottom Navigation dan Tab Layout",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 650,
+        "course_id": 7,
+        "tutorial_title": "Latihan LiveData",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 651,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Extended Application",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 652,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Background Task & Scheduler",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 653,
+        "course_id": 7,
+        "tutorial_title": "Firebase Dispatcher - Latihan : Sederhana",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 654,
+        "course_id": 7,
+        "tutorial_title": "Loader - Latihan : Loader Sederhana",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 655,
+        "course_id": 7,
+        "tutorial_title": "Teori Koneksi ke Web API & Parsing JSON",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 656,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Local Data Persistent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 657,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Background Task dan Scheduler",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 658,
+        "course_id": 7,
+        "tutorial_title": "Latihan Preload untuk SQLite Optimization",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 659,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 660,
+        "course_id": 7,
+        "tutorial_title": "Teori WebView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 661,
+        "course_id": 7,
+        "tutorial_title": "Latihan Mengirim Data pada Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 662,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Navigation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 663,
+        "course_id": 7,
+        "tutorial_title": "GCM Network Manager: Teori",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 664,
+        "course_id": 7,
+        "tutorial_title": "Latihan Scheduler dengan WorkManager",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 665,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menyimpan Data dengan SharedPreferences",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 666,
+        "course_id": 7,
+        "tutorial_title": "Teori Repository",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 667,
+        "course_id": 7,
+        "tutorial_title": "Latihan Custom Notification",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 668,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Background Thread dan Networking",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 669,
+        "course_id": 7,
+        "tutorial_title": "Latihan Bottom Navigation dengan NavigationComponent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 670,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 671,
+        "course_id": 7,
+        "tutorial_title": "Komponen Android Jetpack",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 672,
+        "course_id": 7,
+        "tutorial_title": "Teori Unit Test",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 673,
+        "course_id": 7,
+        "tutorial_title": "Latihan Repeating AlarmManager",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 674,
+        "course_id": 7,
+        "tutorial_title": "Latihan Mediaplayer dengan Service & Notification",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 675,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Extended Application",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 676,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menganalisis View dan View Group",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 677,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menggunakan Job Scheduler pada Widget",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 678,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Fragment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 679,
+        "course_id": 7,
+        "tutorial_title": "Latihan Membuat Aplikasi Consumer Catatan dengan Content Provider",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 680,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Fragment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 681,
+        "course_id": 7,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 682,
+        "course_id": 7,
+        "tutorial_title": "Read and Write File : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 683,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Dasar Pengembangan Aplikasi Android",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 684,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan Activity",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 685,
+        "course_id": 7,
+        "tutorial_title": "Persiapan Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 686,
+        "course_id": 7,
+        "tutorial_title": "Latihan Navigation Drawer dengan NavigationComponent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 687,
+        "course_id": 7,
+        "tutorial_title": "Latihan LiveData dengan API",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 688,
+        "course_id": 7,
+        "tutorial_title": "Teori Android Widget",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 689,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 690,
+        "course_id": 7,
+        "tutorial_title": "Firebase Dispatcher : Teori",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 691,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Navigation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 692,
+        "course_id": 7,
+        "tutorial_title": "Latihan Networking dengan LoopJ & Parsing JSON",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 693,
+        "course_id": 7,
+        "tutorial_title": "Teori Content Provider",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 694,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Fragment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 695,
+        "course_id": 7,
+        "tutorial_title": "Bedah Kode Latihan RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 696,
+        "course_id": 7,
+        "tutorial_title": "Teori BroadcastReceiver",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 697,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menampilkan Website dengan WebView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 698,
+        "course_id": 7,
+        "tutorial_title": "Latihan UI Test Menggunakan Espresso",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 699,
+        "course_id": 7,
+        "tutorial_title": "Latihan Mengirim Data dengan Parcelable",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 700,
+        "course_id": 7,
+        "tutorial_title": "Loader - Latihan : AsyncTask Loader",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 701,
+        "course_id": 7,
+        "tutorial_title": "GCM Network Manager - Latihan: GCM Sederhana",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 702,
+        "course_id": 7,
+        "tutorial_title": "Teori Android KTX (Kotlin)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 703,
+        "course_id": 7,
+        "tutorial_title": "Teori SQLite",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 704,
+        "course_id": 7,
+        "tutorial_title": "Teori Injection",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 705,
+        "course_id": 7,
+        "tutorial_title": "Latihan Stack Notification dengan InboxStyle",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 706,
+        "course_id": 7,
+        "tutorial_title": "Teori Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 707,
+        "course_id": 7,
+        "tutorial_title": "Teori ViewModel",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 708,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Dasar Pengembangan Aplikasi Android",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 709,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Android Architecture Component",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 710,
+        "course_id": 7,
+        "tutorial_title": "Latihan Membatalkan AlarmManager",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 1549,
+        "course_id": 15,
+        "tutorial_title": "Ikhtisar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 711,
+        "course_id": 7,
+        "tutorial_title": "Latihan Tab Layout dengan ViewPager2",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 712,
+        "course_id": 7,
+        "tutorial_title": "Pengenalan Local Data Persistent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 713,
+        "course_id": 7,
+        "tutorial_title": "Teori DataStore",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 714,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menambahkan Aksi pada Widget",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 715,
+        "course_id": 7,
+        "tutorial_title": "Latihan Mengirim Data Antar Fragment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 716,
+        "course_id": 7,
+        "tutorial_title": "Latihan ListView dengan Adapter",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 717,
+        "course_id": 7,
+        "tutorial_title": "Views dan ViewGroup : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 718,
+        "course_id": 7,
+        "tutorial_title": "Teori Retrofit",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 719,
+        "course_id": 7,
+        "tutorial_title": "Submission Awal : Aplikasi Dicoding Event (Navigation dan API)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 720,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan XML",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 721,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan Pengenalan Android Studio",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 722,
+        "course_id": 7,
+        "tutorial_title": "Rangkuman Navigation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 723,
+        "course_id": 7,
+        "tutorial_title": "Latihan LiveData dengan Single Event",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 724,
+        "course_id": 7,
+        "tutorial_title": "Teori Notification",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 725,
+        "course_id": 7,
+        "tutorial_title": "Teori Fragment",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 726,
+        "course_id": 7,
+        "tutorial_title": "Closing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 727,
+        "course_id": 7,
+        "tutorial_title": "Loader : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 728,
+        "course_id": 7,
+        "tutorial_title": "Latihan Activity KTX dan Fragment KTX",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 729,
+        "course_id": 7,
+        "tutorial_title": "Latihan Membuat Aplikasi Catatan dengan Content Provider",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 730,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Background Task dan Scheduler",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 731,
+        "course_id": 7,
+        "tutorial_title": "Teori Content Description",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 732,
+        "course_id": 7,
+        "tutorial_title": "Latihan BroadcastReceiver dari Event SMS",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 733,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Background Process dan Networking",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 734,
+        "course_id": 7,
+        "tutorial_title": "Teori UI Test dengan Espresso",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 735,
+        "course_id": 7,
+        "tutorial_title": "Latihan Implicit Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 736,
+        "course_id": 7,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 737,
+        "course_id": 7,
+        "tutorial_title": "Teori Task dan Back Stack",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 738,
+        "course_id": 7,
+        "tutorial_title": "Cara Membaca Dokumentasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 739,
+        "course_id": 7,
+        "tutorial_title": "Latihan Membuat Aplikasi Catatan dengan SQLite",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 740,
+        "course_id": 7,
+        "tutorial_title": "Latihan Repository dan Injection",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 741,
+        "course_id": 7,
+        "tutorial_title": "Submission Akhir : Aplikasi Dicoding Event",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 742,
+        "course_id": 7,
+        "tutorial_title": "Latihan Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 743,
+        "course_id": 7,
+        "tutorial_title": "Latihan ViewModel dengan API",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 744,
+        "course_id": 7,
+        "tutorial_title": "Latihan Mode Grid pada RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 745,
+        "course_id": 7,
+        "tutorial_title": "Teori ViewModel dan Lifecycle",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 746,
+        "course_id": 7,
+        "tutorial_title": "Activity : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 747,
+        "course_id": 7,
+        "tutorial_title": "Menjalankan Aplikasi di Device & Emulator",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 748,
+        "course_id": 7,
+        "tutorial_title": "Teori JobScheduler",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 749,
+        "course_id": 7,
+        "tutorial_title": "Teori Navigation Component",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 750,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menyimpan dan Membuka File",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 751,
+        "course_id": 7,
+        "tutorial_title": "Latihan Menyimpan Data dengan DataStore",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 752,
+        "course_id": 7,
+        "tutorial_title": "Latihan StackView Widget",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 753,
+        "course_id": 7,
+        "tutorial_title": "Teori Background Thread",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 754,
+        "course_id": 7,
+        "tutorial_title": "Teori ListView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 755,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan Style dan Theme",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 756,
+        "course_id": 7,
+        "tutorial_title": "Latihan Networking dengan Retrofit",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 757,
+        "course_id": 7,
+        "tutorial_title": "Obsolete - Submission 4: Aplikasi Movie Catalogue (Local Storage)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 758,
+        "course_id": 7,
+        "tutorial_title": "Teori Localization",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 759,
+        "course_id": 7,
+        "tutorial_title": "Teori Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 760,
+        "course_id": 7,
+        "tutorial_title": "Android Notification : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 761,
+        "course_id": 7,
+        "tutorial_title": "Latihan Fragment di Activity",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 762,
+        "course_id": 7,
+        "tutorial_title": "Latihan ConstraintLayout",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 763,
+        "course_id": 7,
+        "tutorial_title": "Submission 1 : Aplikasi GitHub User",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 764,
+        "course_id": 7,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 765,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Local Data Persistent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 766,
+        "course_id": 7,
+        "tutorial_title": "Materi Android Fundamental",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 767,
+        "course_id": 7,
+        "tutorial_title": "Latihan Option Menu pada AppBar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 768,
+        "course_id": 7,
+        "tutorial_title": "Latihan BroadcastReceiver dari Custom Event",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 769,
+        "course_id": 7,
+        "tutorial_title": "CustomView : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 770,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Dasar Pengembangan Aplikasi Android",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 771,
+        "course_id": 7,
+        "tutorial_title": "Latihan Mendapatkan Nilai Balik dari Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 772,
+        "course_id": 7,
+        "tutorial_title": "Teori Firebase Cloud Messaging (FCM)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 773,
+        "course_id": 7,
+        "tutorial_title": "Latihan Task dan Back Stack dengan TaskStackBuilder",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 774,
+        "course_id": 7,
+        "tutorial_title": "Teori Library di Android",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 775,
+        "course_id": 7,
+        "tutorial_title": "Teori SQLite Optimization",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 776,
+        "course_id": 7,
+        "tutorial_title": "Dasar SQL (Structured Query Language)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 777,
+        "course_id": 7,
+        "tutorial_title": "Latihan SoundPool",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 778,
+        "course_id": 7,
+        "tutorial_title": "Latihan JobIntentService",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 779,
+        "course_id": 7,
+        "tutorial_title": "Latihan Membuat Custom Button dan EditText",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 780,
+        "course_id": 7,
+        "tutorial_title": "Latihan Mode CardView pada RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 781,
+        "course_id": 7,
+        "tutorial_title": "Latihan ViewModel",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 782,
+        "course_id": 7,
+        "tutorial_title": "Ringkasan Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 783,
+        "course_id": 7,
+        "tutorial_title": "Membuat APK",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 784,
+        "course_id": 7,
+        "tutorial_title": "Latihan Scheduler dengan JobScheduler",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 785,
+        "course_id": 7,
+        "tutorial_title": "Latihan Navigation Graph, SafeArg, Pop Up Behaviour dan Animation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 786,
+        "course_id": 7,
+        "tutorial_title": "Obsolete - Submission 2: Aplikasi Movie Catalogue (UI/UX)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 787,
+        "course_id": 7,
+        "tutorial_title": "Knowledge Check : Android Architecture Component",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 788,
+        "course_id": 7,
+        "tutorial_title": "Latihan Notification dengan NotificationBuilder & NotificatonManager",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 789,
+        "course_id": 7,
+        "tutorial_title": "Latihan Simulasi Proses Asynchronous dengan Background Thread",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 790,
+        "course_id": 7,
+        "tutorial_title": "ListView : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 791,
+        "course_id": 7,
+        "tutorial_title": "Latihan Style and Theme",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 792,
+        "course_id": 7,
+        "tutorial_title": "Modern Android Development",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 793,
+        "course_id": 7,
+        "tutorial_title": "Android Widgets : Quiz",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 794,
+        "course_id": 8,
+        "tutorial_title": "Pengenalan Project pada Android Studio",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 795,
+        "course_id": 8,
+        "tutorial_title": "Debugging dengan Logging dan Debug Breakpoint",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 796,
+        "course_id": 8,
+        "tutorial_title": "Latihan Style dan Theme",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 797,
+        "course_id": 8,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 798,
+        "course_id": 8,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 799,
+        "course_id": 8,
+        "tutorial_title": "Knowledge Check Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 800,
+        "course_id": 8,
+        "tutorial_title": "Rangkuman View dan ViewGroup",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 801,
+        "course_id": 8,
+        "tutorial_title": "Knowledge Check Activity",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 802,
+        "course_id": 8,
+        "tutorial_title": "Prasyarat Kemampuan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 803,
+        "course_id": 8,
+        "tutorial_title": "Knowledge Check RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 804,
+        "course_id": 8,
+        "tutorial_title": "Menjalankan Aplikasi di Device & Emulator",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 805,
+        "course_id": 8,
+        "tutorial_title": "Latihan Menganalisis View dan View Group",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 806,
+        "course_id": 8,
+        "tutorial_title": "Teori RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 807,
+        "course_id": 8,
+        "tutorial_title": "Knowledge Check Pengenalan Android Studio",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 808,
+        "course_id": 8,
+        "tutorial_title": "Glosarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 809,
+        "course_id": 8,
+        "tutorial_title": "Teori View dan ViewGroup",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 810,
+        "course_id": 8,
+        "tutorial_title": "Rangkuman Style dan Theme",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 811,
+        "course_id": 8,
+        "tutorial_title": "Teori Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 812,
+        "course_id": 8,
+        "tutorial_title": "Prasyarat Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 813,
+        "course_id": 8,
+        "tutorial_title": "Knowledge Check Style dan Theme",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 814,
+        "course_id": 8,
+        "tutorial_title": "Membuat APK dan AAB",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 815,
+        "course_id": 8,
+        "tutorial_title": "Latihan ConstraintLayout",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 816,
+        "course_id": 8,
+        "tutorial_title": "Latihan RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 817,
+        "course_id": 8,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 818,
+        "course_id": 8,
+        "tutorial_title": "Latihan LinearLayout, RelativeLayout, FrameLayout, dan TableLayout",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 819,
+        "course_id": 8,
+        "tutorial_title": "Rangkuman RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 820,
+        "course_id": 8,
+        "tutorial_title": "Latihan Explicit Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 821,
+        "course_id": 8,
+        "tutorial_title": "Rangkuman Pengenalan Android Studio",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 822,
+        "course_id": 8,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 823,
+        "course_id": 8,
+        "tutorial_title": "Materi Android Pemula",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 824,
+        "course_id": 8,
+        "tutorial_title": "Teori Library di Android",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 825,
+        "course_id": 8,
+        "tutorial_title": "Mode Grid pada RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 826,
+        "course_id": 8,
+        "tutorial_title": "Pengenalan Android",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 827,
+        "course_id": 8,
+        "tutorial_title": "Latihan Mengirim Data dengan Parcelable",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 828,
+        "course_id": 8,
+        "tutorial_title": "Knowledge Check Views dan ViewGroup",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 829,
+        "course_id": 8,
+        "tutorial_title": "View Binding",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 830,
+        "course_id": 8,
+        "tutorial_title": "Submission Akhir Aplikasi Android Sederhana",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 831,
+        "course_id": 8,
+        "tutorial_title": "Latihan Mengirim Data pada Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 832,
+        "course_id": 8,
+        "tutorial_title": "Rangkuman Activity",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 833,
+        "course_id": 8,
+        "tutorial_title": "Teori Activity",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 834,
+        "course_id": 8,
+        "tutorial_title": "Latihan Implementasi Library Glide",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 835,
+        "course_id": 8,
+        "tutorial_title": "Mode CardView pada RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 836,
+        "course_id": 8,
+        "tutorial_title": "Persiapan Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 837,
+        "course_id": 8,
+        "tutorial_title": "Latihan Mendapatkan Nilai Balik dari Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 838,
+        "course_id": 8,
+        "tutorial_title": "Teori Style dan Theme",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 839,
+        "course_id": 8,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 840,
+        "course_id": 8,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 841,
+        "course_id": 8,
+        "tutorial_title": "Latihan Implicit Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 842,
+        "course_id": 8,
+        "tutorial_title": "Rangkuman Intent",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 843,
+        "course_id": 8,
+        "tutorial_title": "Latihan Activity",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 844,
+        "course_id": 8,
+        "tutorial_title": "Cara Membaca Dokumentasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 845,
+        "course_id": 8,
+        "tutorial_title": "ItemOnClickListener pada RecyclerView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 846,
+        "course_id": 9,
+        "tutorial_title": "Latihan Melakukan Sorting dalam Database Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 847,
+        "course_id": 9,
+        "tutorial_title": "Latihan End-to-End Testing dengan Espresso",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 848,
+        "course_id": 9,
+        "tutorial_title": "Teori WebView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 849,
+        "course_id": 9,
+        "tutorial_title": "Teori Localization pada Teks",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 850,
+        "course_id": 9,
+        "tutorial_title": "Latihan Unit Testing LiveData",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 851,
+        "course_id": 9,
+        "tutorial_title": "Teori Firebase",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 852,
+        "course_id": 9,
+        "tutorial_title": "Latihan Foreground Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 853,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Advanced Database",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 854,
+        "course_id": 9,
+        "tutorial_title": "Latihan Membuat Custom Button dan EditText",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 855,
+        "course_id": 9,
+        "tutorial_title": "Teori Canvas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 856,
+        "course_id": 9,
+        "tutorial_title": "Latihan Activity Transition dan Shared Element",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 857,
+        "course_id": 9,
+        "tutorial_title": "Submission Aplikasi Story App",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 858,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Geo Location",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 859,
+        "course_id": 9,
+        "tutorial_title": "Teori Pre-Populate Database Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 860,
+        "course_id": 9,
+        "tutorial_title": "Latihan Membuat Aplikasi Running dengan Location Tracker",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 861,
+        "course_id": 9,
+        "tutorial_title": "Teori Property Animation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 862,
+        "course_id": 9,
+        "tutorial_title": "Latihan Intent Camera",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 863,
+        "course_id": 9,
+        "tutorial_title": "Latihan MediaPlayer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 864,
+        "course_id": 9,
+        "tutorial_title": "Teori Accessibility",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 865,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Localization",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 866,
+        "course_id": 9,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 867,
+        "course_id": 9,
+        "tutorial_title": "Teori Paging",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 868,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Advanced Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 869,
+        "course_id": 9,
+        "tutorial_title": "Latihan Menampilkan Website dengan WebView",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 870,
+        "course_id": 9,
+        "tutorial_title": "Latihan Localization pada Teks untuk Mendukung Multi-Language",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 871,
+        "course_id": 9,
+        "tutorial_title": "Latihan Unit Testing Coroutines",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 872,
+        "course_id": 9,
+        "tutorial_title": "Latihan Firebase Authentication",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 873,
+        "course_id": 9,
+        "tutorial_title": "Latihan Bound Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 874,
+        "course_id": 9,
+        "tutorial_title": "Latihan Integration Testing Room Database",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 875,
+        "course_id": 9,
+        "tutorial_title": "Teori Android Widget",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 876,
+        "course_id": 9,
+        "tutorial_title": "Latihan Menggambar dengan Canvas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 877,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Advanced Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 878,
+        "course_id": 9,
+        "tutorial_title": "Submission Aplikasi Story App : Kriteria",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 879,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 880,
+        "course_id": 9,
+        "tutorial_title": "Latihan Pre-Populate Database Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 881,
+        "course_id": 9,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 882,
+        "course_id": 9,
+        "tutorial_title": "Teori Geofencing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 883,
+        "course_id": 9,
+        "tutorial_title": "Latihan Property Animation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 884,
+        "course_id": 9,
+        "tutorial_title": "Latihan Intent Gallery",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 885,
+        "course_id": 9,
+        "tutorial_title": "Latihan ExoPlayer dengan Notification",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 886,
+        "course_id": 9,
+        "tutorial_title": "Latihan Accessibility",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 887,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 888,
+        "course_id": 9,
+        "tutorial_title": "Latihan Paging 2 dari Database",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 889,
+        "course_id": 9,
+        "tutorial_title": "Submission Aplikasi Story App : Kirim dan Review",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 890,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 891,
+        "course_id": 9,
+        "tutorial_title": "Teori Adaptive Layout untuk Support Multiple Screen Size",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 892,
+        "course_id": 9,
+        "tutorial_title": "Latihan Unit Testing Repository dengan Fake",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 893,
+        "course_id": 9,
+        "tutorial_title": "Latihan Firebase Realtime Database",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 894,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Geo Location",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 895,
+        "course_id": 9,
+        "tutorial_title": "Latihan Integration Testing Fragment dengan MockWebServer dan Idling Resource",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 896,
+        "course_id": 9,
+        "tutorial_title": "Latihan Menampilkan Widget di Homepage",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 897,
+        "course_id": 9,
+        "tutorial_title": "Latihan Clipping Object Canvas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 898,
+        "course_id": 9,
+        "tutorial_title": "Teori TDD (Test Driven Development)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 899,
+        "course_id": 9,
+        "tutorial_title": "Submission Akhir Aplikasi Story App",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 900,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Advanced Database",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 901,
+        "course_id": 9,
+        "tutorial_title": "Teori Migrasi Database Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 902,
+        "course_id": 9,
+        "tutorial_title": "Glosarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 903,
+        "course_id": 9,
+        "tutorial_title": "Latihan Membuat Aplikasi dengan Geofencing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 904,
+        "course_id": 9,
+        "tutorial_title": "Teori Motion Layout",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 905,
+        "course_id": 9,
+        "tutorial_title": "Teori Mengunggah File ke Server",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 906,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Advanced UI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 907,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Advance Database",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 908,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Media",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 909,
+        "course_id": 9,
+        "tutorial_title": "Teori Google Maps API",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 910,
+        "course_id": 9,
+        "tutorial_title": "Latihan Paging 3 dari Network",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 911,
+        "course_id": 9,
+        "tutorial_title": "Submission Akhir Aplikasi Story App : Kirim dan Review",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 912,
+        "course_id": 9,
+        "tutorial_title": "Teori Permission",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 913,
+        "course_id": 9,
+        "tutorial_title": "Latihan Adaptive Layout untuk Support Multiple Screen Size",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 914,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 915,
+        "course_id": 9,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 916,
+        "course_id": 9,
+        "tutorial_title": "Latihan Firebase Cloud Messaging (FCM)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 917,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Media",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 918,
+        "course_id": 9,
+        "tutorial_title": "Latihan Menambahkan Aksi pada Widget",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 919,
+        "course_id": 9,
+        "tutorial_title": "Latihan Membuat Custom View dari Awal",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 920,
+        "course_id": 9,
+        "tutorial_title": "Latihan TDD (Test Driven Development)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 921,
+        "course_id": 9,
+        "tutorial_title": "Submission Akhir Aplikasi Story App : Kriteria",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 922,
+        "course_id": 9,
+        "tutorial_title": "Teori Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 923,
+        "course_id": 9,
+        "tutorial_title": "Latihan Migrasi Database Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 924,
+        "course_id": 9,
+        "tutorial_title": "Daftar Referensi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 925,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Advanced UI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 926,
+        "course_id": 9,
+        "tutorial_title": "Latihan Motion Layout",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 927,
+        "course_id": 9,
+        "tutorial_title": "Latihan Mengunggah File Ke Server dengan Multipart dalam Retrofit",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 928,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Animation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 929,
+        "course_id": 9,
+        "tutorial_title": "Teori Relasi Database Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 930,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Geo Location",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 931,
+        "course_id": 9,
+        "tutorial_title": "Latihan Menampilkan Peta dengan Google Maps API",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 932,
+        "course_id": 9,
+        "tutorial_title": "Latihan Paging 3 dengan RemoteMediator",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 933,
+        "course_id": 9,
+        "tutorial_title": "Teori Akses Galeri dan Kamera",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 934,
+        "course_id": 9,
+        "tutorial_title": "Teori Soundpool, MediaPlayer, dan ExoPlayer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 935,
+        "course_id": 9,
+        "tutorial_title": "Teori Format Informasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 936,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Advanced UI",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 937,
+        "course_id": 9,
+        "tutorial_title": "Prasyarat Kemampuan",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 938,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Firebase",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 939,
+        "course_id": 9,
+        "tutorial_title": "Teori RawQuery dalam Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 940,
+        "course_id": 9,
+        "tutorial_title": "Latihan ExoPlayer",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 941,
+        "course_id": 9,
+        "tutorial_title": "Latihan StackView Widget",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 942,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Localization dan Accessibility",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 943,
+        "course_id": 9,
+        "tutorial_title": "Teori Test Double",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 944,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Firebase",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 945,
+        "course_id": 9,
+        "tutorial_title": "Latihan Service",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 946,
+        "course_id": 9,
+        "tutorial_title": "Teori Custom View",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 947,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Localization",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 948,
+        "course_id": 9,
+        "tutorial_title": "Teori Activity Transition",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 949,
+        "course_id": 9,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 950,
+        "course_id": 9,
+        "tutorial_title": "Rangkuman Media",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 951,
+        "course_id": 9,
+        "tutorial_title": "Latihan Relasi Database Room",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 952,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Advanced Testing",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 953,
+        "course_id": 9,
+        "tutorial_title": "Teori Location Tracker",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 954,
+        "course_id": 9,
+        "tutorial_title": "Pengantar Animation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 955,
+        "course_id": 9,
+        "tutorial_title": "Latihan CameraX",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 956,
+        "course_id": 9,
+        "tutorial_title": "Latihan SoundPool",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 957,
+        "course_id": 9,
+        "tutorial_title": "Latihan Formatting pada Informasi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 958,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Animation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 959,
+        "course_id": 9,
+        "tutorial_title": "Prasyarat Tools",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 960,
+        "course_id": 9,
+        "tutorial_title": "Knowledge Check : Firebase",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 961,
+        "course_id": 10,
+        "tutorial_title": "Generalization dan Specialization",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 962,
+        "course_id": 10,
+        "tutorial_title": "Studi Kasus S.O.L.I.D",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 963,
+        "course_id": 10,
+        "tutorial_title": "Ujian Akhir",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 964,
+        "course_id": 10,
+        "tutorial_title": "Abstraction",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 965,
+        "course_id": 10,
+        "tutorial_title": "Knowledge Check: Relasi pada OOP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 966,
+        "course_id": 10,
+        "tutorial_title": "Interface Segregation Principle (ISP)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 967,
+        "course_id": 10,
+        "tutorial_title": "Rangkuman: OOP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 968,
+        "course_id": 10,
+        "tutorial_title": "Contoh Kasus SRP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 969,
+        "course_id": 10,
+        "tutorial_title": "Pengenalan Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 970,
+        "course_id": 10,
+        "tutorial_title": "Realization atau Implementation",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 971,
+        "course_id": 10,
+        "tutorial_title": "Persetujuan Hak Cipta",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 972,
+        "course_id": 10,
+        "tutorial_title": "Polymorphism",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 973,
+        "course_id": 10,
+        "tutorial_title": "Knowledge Check: Software Design",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 974,
+        "course_id": 10,
+        "tutorial_title": "Contoh Kasus ISP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 975,
+        "course_id": 10,
+        "tutorial_title": "Pengenalan OOP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 976,
+        "course_id": 10,
+        "tutorial_title": "Rangkuman: Relasi pada OOP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 977,
+        "course_id": 10,
+        "tutorial_title": "Open/Close Principle (OCP)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 978,
+        "course_id": 10,
+        "tutorial_title": "Pengenalan Software Design",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 979,
+        "course_id": 10,
+        "tutorial_title": "Mekanisme Belajar",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 980,
+        "course_id": 10,
+        "tutorial_title": "Pengenalan Relasi pada OOP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 981,
+        "course_id": 10,
+        "tutorial_title": "Knowledge Check: S.O.L.I.D",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 982,
+        "course_id": 10,
+        "tutorial_title": "Dependency Inversion Principle (DIP)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 983,
+        "course_id": 10,
+        "tutorial_title": "Empat Pilar dalam OOP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 984,
+        "course_id": 10,
+        "tutorial_title": "Rangkuman: Software Design",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 985,
+        "course_id": 10,
+        "tutorial_title": "Contoh Kasus OCP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 986,
+        "course_id": 10,
+        "tutorial_title": "Forum Diskusi",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 987,
+        "course_id": 10,
+        "tutorial_title": "Software Design Principle",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 988,
+        "course_id": 10,
+        "tutorial_title": "Association, Aggregation, dan Composition",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 989,
+        "course_id": 10,
+        "tutorial_title": "Rangkuman Kelas",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 990,
+        "course_id": 10,
+        "tutorial_title": "Contoh Kasus DIP",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 991,
+        "course_id": 10,
+        "tutorial_title": "Inheritance",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 992,
+        "course_id": 10,
+        "tutorial_title": "Rangkuman: S.O.L.I.D",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 993,
+        "course_id": 10,
+        "tutorial_title": "Liskov Substitution Principle (LSP)",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 994,
+        "course_id": 10,
+        "tutorial_title": "Glosarium",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 995,
+        "course_id": 10,
+        "tutorial_title": "Pengenalan S.O.L.I.D",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 996,
+        "course_id": 10,
+        "tutorial_title": "Dependency",
+        "type": null,
+        "content": null
+    },
+    {
+        "tutorial_id": 997,
+        "course_id": 10,
+        "tutorial_title": "Ujian Akhir (Deprecated)",
+        "type": null,
+        "content": null
+    }
+]

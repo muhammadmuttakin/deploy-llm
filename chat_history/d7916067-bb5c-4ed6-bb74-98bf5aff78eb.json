@@ -1,0 +1,13 @@
+{
+  "session_id": "d7916067-bb5c-4ed6-bb74-98bf5aff78eb",
+  "created_at": "2025-12-07T19:43:23.456705",
+  "messages": [
+    {
+      "timestamp": "2025-12-07T19:43:23.457712",
+      "query": "halo",
+      "answer": "Halo! Ada yang bisa saya bantu hari ini? 😊",
+      "type": "learning"
+    }
+  ],
+  "last_updated": "2025-12-07T19:43:23.457712"
+}

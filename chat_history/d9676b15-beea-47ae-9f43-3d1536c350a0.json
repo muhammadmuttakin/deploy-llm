@@ -1,0 +1,13 @@
+{
+  "session_id": "d9676b15-beea-47ae-9f43-3d1536c350a0",
+  "created_at": "2025-12-14T11:17:45.339647",
+  "messages": [
+    {
+      "timestamp": "2025-12-14T11:17:45.339647",
+      "query": "bagaimana progres saya",
+      "answer": "Aku Dingding, ada aku tandanya progres belajar kamu perlu diperhatikan nih…\n\nKamu belum menyelesaikan kursus apapun saat ini. Ada beberapa kursus yang progresnya masih di bawah 50% dan perlu perhatian lebih:\n*   **Belajar Dasar AI** masih 28% dan deadline-nya 36 hari lagi.\n*   **Belajar Fundamental Aplikasi Android** masih 18% dan deadline-nya 49 hari lagi.\n*   **Architecting on AWS (Membangun Arsitektur Cloud di AWS)** masih 27%.\n*   **Belajar Fundamental Aplikasi iOS** masih 42%.\n\nSebagai motivasi, kamu sudah sangat dekat untuk menyelesaikan **Machine Learning Terapan** dengan progres 97%! Selesaikan kursus ini untuk mendapatkan satu pencapaian besar.\n\nUntuk kursus dengan progres rendah, terutama **Belajar Dasar AI** dan **Belajar Fundamental Aplikasi Android** karena deadline-nya lebih dekat, saran saya:\n1.  **Tetapkan prioritas:** Fokus pada satu atau dua kursus progres rendah dengan deadline terdekat.\n2.  **Breakdown materi:** Bagi materi kursus menjadi bagian-bagian kecil (misalnya, per bab atau per topik).\n3.  **Jadwalkan sesi belajar singkat:** Alokasikan 30-60 menit setiap hari untuk fokus menyelesaikan satu bagian kecil dari materi yang sudah di-breakdown.\n4.  **Buat target harian:** Contohnya, 'Hari ini saya akan menyelesaikan pengenalan di Belajar Dasar AI' atau 'Memahami variabel di Belajar Fundamental Aplikasi Android'.\n\nDengan strategi ini, kamu bisa melihat progres nyata setiap hari dan menjaga momentum belajarmu. Ayo mulai rencanakan sekarang.",
+      "type": "tracking"
+    }
+  ],
+  "last_updated": "2025-12-14T11:17:45.339647"
+}

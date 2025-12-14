@@ -1,0 +1,13 @@
+{
+  "session_id": "9bcfe3b2-1799-49a4-b3ad-b0a9e2c56c23",
+  "created_at": "2025-12-03T14:23:37.874039",
+  "messages": [
+    {
+      "timestamp": "2025-12-03T14:23:37.874039",
+      "query": "apa itu epoch",
+      "answer": "Saya tidak menemukan informasi spesifik tentang definisi \"epoch\" di materi yang tersedia.\n\nSecara umum di industri, terutama dalam konteks pelatihan *machine learning* atau *deep learning*, **epoch** adalah satu siklus lengkap di mana seluruh dataset pelatihan (training dataset) dilewatkan melalui algoritma pelatihan.\n\nBayangkan Anda memiliki sejumlah besar data untuk melatih model. Daripada memproses semua data itu sekaligus, yang bisa memakan banyak memori dan waktu, model dilatih secara iteratif. Satu epoch berarti:\n1.  Semua data pelatihan diambil.\n2.  Data tersebut dipecah menjadi batch-batch kecil.\n3.  Setiap batch diproses oleh model (forward pass) untuk membuat prediksi.\n4.  Kesalahan (loss) dihitung berdasarkan prediksi tersebut.\n5.  Parameter model (weights dan biases) diperbarui menggunakan optimisasi (backward pass) untuk mengurangi kesalahan.\n6.  Proses ini berlanjut hingga semua batch dalam dataset pelatihan telah diproses.\n\nKetika satu epoch selesai, seluruh dataset telah \"dilihat\" oleh model satu kali. Model biasanya dilatih untuk beberapa epoch hingga performanya mencapai tingkat yang diinginkan.\n\nApakah Anda sedang mempelajari konsep pelatihan model di kelas tertentu?",
+      "type": "learning"
+    }
+  ],
+  "last_updated": "2025-12-03T14:23:37.874039"
+}

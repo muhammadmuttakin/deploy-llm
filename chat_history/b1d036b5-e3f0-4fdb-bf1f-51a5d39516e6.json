@@ -1,0 +1,13 @@
+{
+  "session_id": "b1d036b5-e3f0-4fdb-bf1f-51a5d39516e6",
+  "created_at": "2025-12-03T14:23:49.987518",
+  "messages": [
+    {
+      "timestamp": "2025-12-03T14:23:49.987518",
+      "query": "masih kurang paham",
+      "answer": "Mohon maaf, Dico perlu tahu lebih lanjut apa yang masih kurang kamu pahami. Bisakah kamu jelaskan kembali atau sebutkan topik sebelumnya yang ingin kamu tanyakan? 😊",
+      "type": "learning"
+    }
+  ],
+  "last_updated": "2025-12-03T14:23:49.987518"
+}

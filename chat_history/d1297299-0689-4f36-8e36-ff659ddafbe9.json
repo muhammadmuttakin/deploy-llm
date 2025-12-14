@@ -1,0 +1,19 @@
+{
+  "session_id": "d1297299-0689-4f36-8e36-ff659ddafbe9",
+  "created_at": "2025-12-09T18:58:40.200035",
+  "messages": [
+    {
+      "timestamp": "2025-12-09T18:58:40.200035",
+      "query": "halo",
+      "answer": "Hai! Ada yang bisa saya bantu hari ini? 😊",
+      "type": "learning"
+    },
+    {
+      "timestamp": "2025-12-09T18:58:53.746824",
+      "query": "bagaimana progres saya",
+      "answer": "Aku Dingding (nggak se-ramah Dico)...\n\nIni progresmu:\nKursus yang sudah selesai: Belajar Machine Learning untuk Pemula, Memulai Pemrograman dengan Python, dan Belajar Dasar AI.\nAda dua kursus yang deadline-nya terlewat: Belajar Fundamental Deep Learning (terlambat 29 hari) dan Membangun Proyek Deep Learning Tingkat Mahir (terlambat 8 hari).\nKursus yang paling dekat ke 100% adalah Belajar Fundamental Deep Learning dengan 60%.",
+      "type": "tracking"
+    }
+  ],
+  "last_updated": "2025-12-09T18:58:53.746824"
+}

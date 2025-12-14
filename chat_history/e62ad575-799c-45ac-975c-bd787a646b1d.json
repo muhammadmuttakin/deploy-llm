@@ -1,0 +1,13 @@
+{
+  "session_id": "e62ad575-799c-45ac-975c-bd787a646b1d",
+  "created_at": "2025-12-03T14:07:31.888334",
+  "messages": [
+    {
+      "timestamp": "2025-12-03T14:07:31.888334",
+      "query": "apa itu epoch",
+      "answer": "Dalam dokumen yang ada, saya belum melihat penjelasan tentang hal itu.\n\nSecara umum, dalam konteks *machine learning* atau *deep learning*, satu **epoch** adalah satu siklus lengkap di mana seluruh dataset pelatihan (training dataset) dilewatkan melalui algoritma *learning* satu kali.\n\nBayangkan kamu sedang belajar dari sebuah buku pelajaran yang sangat tebal. Satu *epoch* berarti kamu sudah membaca dan mencoba memahami seluruh isi buku dari awal sampai akhir satu kali. Jika kamu melakukan beberapa *epoch*, itu berarti kamu mengulangi proses membaca seluruh buku berkali-kali untuk memperkuat pemahamanmu.\n\nDalam setiap *epoch*, model akan melihat setiap contoh data, membuat prediksi, menghitung kesalahan (loss), dan memperbarui bobot (weights) serta biasnya untuk mengurangi kesalahan tersebut. Proses ini diulang untuk sejumlah *epoch* yang ditentukan.\n\nApakah ada istilah lain yang ingin kamu tanyakan terkait *machine learning*?",
+      "type": "learning"
+    }
+  ],
+  "last_updated": "2025-12-03T14:07:31.888334"
+}

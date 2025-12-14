@@ -1,0 +1,452 @@
+[
+    {
+        "course_id": 2,
+        "learning_path_id": 1,
+        "course_name": "Belajar Fundamental Deep Learning",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 3,
+        "learning_path_id": 1,
+        "course_name": "Belajar Machine Learning untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 4,
+        "learning_path_id": 1,
+        "course_name": "Machine Learning Terapan",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 5,
+        "learning_path_id": 1,
+        "course_name": "Membangun Proyek Deep Learning Tingkat Mahir",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 6,
+        "learning_path_id": 1,
+        "course_name": "Memulai Pemrograman dengan Python",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 7,
+        "learning_path_id": 2,
+        "course_name": "Belajar Fundamental Aplikasi Android",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 8,
+        "learning_path_id": 2,
+        "course_name": "Belajar Membuat Aplikasi Android untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 9,
+        "learning_path_id": 2,
+        "course_name": "Belajar Pengembangan Aplikasi Android Intermediate",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 10,
+        "learning_path_id": 2,
+        "course_name": "Belajar Prinsip Pemrograman SOLID",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 11,
+        "learning_path_id": 2,
+        "course_name": "Memulai Pemrograman dengan Kotlin",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 12,
+        "learning_path_id": 2,
+        "course_name": "Menjadi Android Developer Expert",
+        "course_level_str": 5
+    },
+    {
+        "course_id": 13,
+        "learning_path_id": 3,
+        "course_name": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 14,
+        "learning_path_id": 3,
+        "course_name": "Belajar Back-End Pemula dengan JavaScript",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 17,
+        "learning_path_id": 3,
+        "course_name": "Belajar Fundamental Back-End dengan JavaScript",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 18,
+        "learning_path_id": 3,
+        "course_name": "Menjadi Back-End Developer Expert dengan JavaScript",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 19,
+        "learning_path_id": 3,
+        "course_name": "Menjadi Node.js Application Developer",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 20,
+        "learning_path_id": 4,
+        "course_name": "Belajar Back-End Pemula dengan Python",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 21,
+        "learning_path_id": 4,
+        "course_name": "Belajar 1 Google Cloud",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 22,
+        "learning_path_id": 4,
+        "course_name": "Belajar Fundamental Back-End dengan Python",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 23,
+        "learning_path_id": 4,
+        "course_name": "Memulai Pemrograman dengan Python",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 24,
+        "learning_path_id": 4,
+        "course_name": "Menjadi Google Cloud Architect",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 25,
+        "learning_path_id": 4,
+        "course_name": "Menjadi Google Cloud Engineer",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 26,
+        "learning_path_id": 5,
+        "course_name": "Belajar Analisis Data dengan Python",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 29,
+        "learning_path_id": 5,
+        "course_name": "Belajar Machine Learning untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 30,
+        "learning_path_id": 5,
+        "course_name": "Belajar Matematika untuk Data Science",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 31,
+        "learning_path_id": 5,
+        "course_name": "Belajar Penerapan Data Science",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 32,
+        "learning_path_id": 5,
+        "course_name": "Memulai Pemrograman dengan Python",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 34,
+        "learning_path_id": 6,
+        "course_name": "Belajar Implementasi CI/CD",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 35,
+        "learning_path_id": 6,
+        "course_name": "Belajar Jaringan Komputer untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 36,
+        "learning_path_id": 6,
+        "course_name": "Belajar Membangun Arsitektur Microservices",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 37,
+        "learning_path_id": 6,
+        "course_name": "Menjadi Linux System Administrator",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 40,
+        "learning_path_id": 7,
+        "course_name": "Belajar Fundamental Front-End Web Development",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 41,
+        "learning_path_id": 7,
+        "course_name": "Belajar Membuat Front-End Web untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 42,
+        "learning_path_id": 7,
+        "course_name": "Belajar Pengembangan Web Intermediate",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 44,
+        "learning_path_id": 8,
+        "course_name": "Belajar Fundamental Deep Learning",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 45,
+        "learning_path_id": 8,
+        "course_name": "Belajar Machine Learning untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 46,
+        "learning_path_id": 8,
+        "course_name": "Memulai Pemrograman dengan Python",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 47,
+        "learning_path_id": 8,
+        "course_name": "Prompt Engineering untuk Software Developer",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 50,
+        "learning_path_id": 9,
+        "course_name": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 51,
+        "learning_path_id": 9,
+        "course_name": "Menjadi Google Cloud Architect",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 52,
+        "learning_path_id": 9,
+        "course_name": "Menjadi Google Cloud Engineer",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 53,
+        "learning_path_id": 10,
+        "course_name": "Belajar Fundamental Aplikasi iOS",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 54,
+        "learning_path_id": 10,
+        "course_name": "Belajar Membuat Aplikasi iOS untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 55,
+        "learning_path_id": 10,
+        "course_name": "Belajar Prinsip Pemrograman SOLID",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 56,
+        "learning_path_id": 10,
+        "course_name": "Memulai Pemrograman Dengan Swift",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 57,
+        "learning_path_id": 10,
+        "course_name": "Menjadi iOS Developer Expert",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 59,
+        "learning_path_id": 11,
+        "course_name": "Belajar Fundamental Deep Learning",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 60,
+        "learning_path_id": 11,
+        "course_name": "Belajar Machine Learning untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 61,
+        "learning_path_id": 11,
+        "course_name": "Machine Learning Operations (MLOps)",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 62,
+        "learning_path_id": 11,
+        "course_name": "Membangun Sistem Machine Learning",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 63,
+        "learning_path_id": 11,
+        "course_name": "Memulai Pemrograman dengan Python",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 64,
+        "learning_path_id": 12,
+        "course_name": "Belajar Fundamental Aplikasi Flutter",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 65,
+        "learning_path_id": 12,
+        "course_name": "Belajar Membuat Aplikasi Flutter untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 66,
+        "learning_path_id": 12,
+        "course_name": "Belajar Pengembangan Aplikasi Flutter Intermediate",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 67,
+        "learning_path_id": 12,
+        "course_name": "Belajar Prinsip Pemrograman SOLID",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 68,
+        "learning_path_id": 12,
+        "course_name": "Memulai Pemrograman dengan Dart",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 69,
+        "learning_path_id": 12,
+        "course_name": "Menjadi Flutter Developer Expert",
+        "course_level_str": 5
+    },
+    {
+        "course_id": 72,
+        "learning_path_id": 13,
+        "course_name": "Belajar Fundamental Aplikasi Web dengan React",
+        "course_level_str": 3
+    },
+    {
+        "course_id": 73,
+        "learning_path_id": 13,
+        "course_name": "Belajar Membuat Aplikasi Web dengan React",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 74,
+        "learning_path_id": 13,
+        "course_name": "Belajar Membuat Front-End Web untuk Pemula",
+        "course_level_str": 2
+    },
+    {
+        "course_id": 75,
+        "learning_path_id": 13,
+        "course_name": "Menjadi React Web Developer Expert",
+        "course_level_str": 4
+    },
+    {
+        "course_id": 1,
+        "learning_path_id": 1,
+        "course_name": "Belajar Dasar AI",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 15,
+        "learning_path_id": 3,
+        "course_name": "Belajar Dasar Cloud dan Gen AI di AWS",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 16,
+        "learning_path_id": 3,
+        "course_name": "Belajar Dasar Pemrograman JavaScript",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 27,
+        "learning_path_id": 5,
+        "course_name": "Belajar Dasar Data Science",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 28,
+        "learning_path_id": 5,
+        "course_name": "Belajar Dasar Structured Query Language (SQL)",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 33,
+        "learning_path_id": 6,
+        "course_name": "Belajar Dasar-Dasar DevOps",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 38,
+        "learning_path_id": 7,
+        "course_name": "Belajar Dasar Pemrograman JavaScript",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 39,
+        "learning_path_id": 7,
+        "course_name": "Belajar Dasar Pemrograman Web",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 43,
+        "learning_path_id": 8,
+        "course_name": "Belajar Dasar AI",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 48,
+        "learning_path_id": 9,
+        "course_name": "Belajar Dasar Google Cloud",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 49,
+        "learning_path_id": 9,
+        "course_name": "Belajar Dasar Pemrograman JavaScript",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 58,
+        "learning_path_id": 11,
+        "course_name": "Belajar Dasar AI",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 70,
+        "learning_path_id": 13,
+        "course_name": "Belajar Dasar Pemrograman JavaScript",
+        "course_level_str": 1
+    },
+    {
+        "course_id": 71,
+        "learning_path_id": 13,
+        "course_name": "Belajar Dasar Pemrograman Web",
+        "course_level_str": 1
+    }
+]

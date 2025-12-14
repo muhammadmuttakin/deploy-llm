@@ -1,0 +1,13 @@
+{
+  "session_id": "eb40e8da-2737-419d-9ae7-72daac735055",
+  "created_at": "2025-12-03T14:22:44.465518",
+  "messages": [
+    {
+      "timestamp": "2025-12-03T14:22:44.465518",
+      "query": "rekomendasi",
+      "answer": "Hai Budi! Keren banget kamu sedang fokus menyelesaikan Belajar Fundamental Deep Learning dan Machine Learning Terapan. Semangat terus ya! 💪\n\nSetelah kamu merampungkan Belajar Fundamental Deep Learning, langkah berikutnya yang pas adalah kelas **Deep Learning** 🎯. Ini akan membantumu memahami algoritma dan arsitektur neural network yang lebih kompleks, sangat penting untuk jalur Machine Learning Engineer-mu. Sebagai pelengkap atau untuk sisi praktik, kamu juga bisa mempertimbangkan **Membangun Aplikasi Machine Learning**. Kelas ini akan mengajarkan cara deploy model ML, skill krusial bagi seorang Engineer.\n\nFokus selesaikan dulu yang sedang berjalan ya. Kalau sudah siap, mana di antara Deep Learning atau Membangun Aplikasi Machine Learning yang menurutmu paling menarik untuk dieksplorasi selanjutnya?",
+      "type": "recommendation"
+    }
+  ],
+  "last_updated": "2025-12-03T14:22:44.465518"
+}

@@ -1,0 +1,54 @@
+[
+    {
+        "learning_path_id": 1,
+        "learning_path_name": "AI Engineer"
+    },
+    {
+        "learning_path_id": 2,
+        "learning_path_name": "Android Developer"
+    },
+    {
+        "learning_path_id": 3,
+        "learning_path_name": "Back-End Developer JavaScript"
+    },
+    {
+        "learning_path_id": 4,
+        "learning_path_name": "Back-End Developer Python"
+    },
+    {
+        "learning_path_id": 5,
+        "learning_path_name": "Data Scientist"
+    },
+    {
+        "learning_path_id": 6,
+        "learning_path_name": "DevOps Engineer"
+    },
+    {
+        "learning_path_id": 7,
+        "learning_path_name": "Front-End Web Developer"
+    },
+    {
+        "learning_path_id": 8,
+        "learning_path_name": "Gen AI Engineer"
+    },
+    {
+        "learning_path_id": 9,
+        "learning_path_name": "Google Cloud Professional"
+    },
+    {
+        "learning_path_id": 10,
+        "learning_path_name": "iOS Developer"
+    },
+    {
+        "learning_path_id": 11,
+        "learning_path_name": "MLOps Engineer"
+    },
+    {
+        "learning_path_id": 12,
+        "learning_path_name": "Multi-Platform App Developer"
+    },
+    {
+        "learning_path_id": 13,
+        "learning_path_name": "React Developer"
+    }
+]

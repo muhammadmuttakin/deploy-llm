@@ -1,0 +1,13 @@
+{
+  "session_id": "f1b4625c-12eb-41cc-846e-75e081aa4e4c",
+  "created_at": "2025-12-03T13:02:54.893236",
+  "messages": [
+    {
+      "timestamp": "2025-12-03T13:02:54.893236",
+      "query": "Sudah sampai mana progress saya?",
+      "answer": "Halo Budi! Wah, Dico lihat progress belajarmu di Learning Path Machine Learning Engineer ini sudah sangat bagus lho! ✨\n\nKamu sudah berhasil menyelesaikan **2 dari 4 kursus** atau sekitar **50%** dari total Learning Path-mu! Keren banget! 🎉 Dua kursus yang sudah kamu taklukkan adalah:\n*   Memulai Pemrograman dengan Python\n*   Belajar Machine Learning untuk Pemula\n\nSaat ini, kamu sedang aktif belajar di **2 kursus lainnya**:\n*   Belajar Fundamental Deep Learning dengan progress 60%\n*   Machine Learning Terapan dengan progress 30%\n\nProgress rata-ratamu saat ini sudah mencapai **72%**! Hebat sekali! 💪 Terus semangat ya, Budi, sebentar lagi kamu pasti bisa menyelesaikan semua kursus di Learning Path Machine Learning Engineer ini. Kamu mau fokus lanjut di kursus yang mana dulu nih? 😊",
+      "type": "tracking"
+    }
+  ],
+  "last_updated": "2025-12-03T13:02:54.893236"
+}

@@ -1,0 +1,13 @@
+{
+  "session_id": "db04423d-f867-48dc-9976-e75fc2fbed2b",
+  "created_at": "2025-12-07T20:37:37.096518",
+  "messages": [
+    {
+      "timestamp": "2025-12-07T20:37:37.096518",
+      "query": "siapa namamu",
+      "answer": "Namaku Dico, asisten belajar Dicoding. Ada yang bisa saya bantu hari ini? 😊",
+      "type": "learning"
+    }
+  ],
+  "last_updated": "2025-12-07T20:37:37.096518"
+}
